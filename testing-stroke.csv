@@ -1,0 +1,1023 @@
+id,Age,Gender,Married,Employment_Type,Urban_Rural,Smoker,BodyMassIndex,Hypertension,Had_Heart_Disease,Mean_Glucose_Level
+07d9152e686ddb50c5330f7f9c1c58bc,79.0,Male,Yes,Private,Rural,never smoked,,1,0,75.02
+2f0bf07b716733d56ffa0b68cfe3823f,64.0,Female,Yes,Self-employed,Rural,smokes,31.6,0,0,114.47
+d63fbf8c3173730f82b150c5ef38b8ff,61.0,Female,Yes,Private,Rural,smokes,26.1,0,0,99.35
+d96988b88c76419fad9677dcd6adb947,3.0,Female,No,children,Rural,Unknown,22.2,0,0,97.31
+142536b9b535b78e681c11b0195d962f,4.0,Male,No,children,Rural,Unknown,15.2,0,0,99.96
+421b3ac5c24ee992edd6087611c60dbb,58.0,Male,Yes,Private,Urban,never smoked,36.1,0,0,94.53
+8231e51e35fb63336c2a335c81812f71,74.0,Female,Yes,Private,Urban,Unknown,26.3,0,0,130.37
+67ca3192a9793d768d6706d0541842f4,21.0,Female,Yes,Private,Urban,never smoked,22.6,0,0,59.15
+87399f176ecbb33c635159c25c156c7f,56.0,Male,Yes,Self-employed,Rural,never smoked,24.6,0,0,125.87
+33361cd70854b41ce5b022000f77b434,31.0,Male,No,Self-employed,Rural,Unknown,23.0,0,0,64.85
+a42960f37b1d008a7ef84a3d88600756,2.0,Male,No,children,Urban,Unknown,29.4,0,1,62.89
+bad8918c94004ec3b357281f01ad4af1,41.0,Male,No,Govt_job,Urban,never smoked,27.6,0,0,106.98
+7d35335f47d5d82b093aeee47a5b0a64,29.0,Male,Yes,Private,Urban,formerly smoked,,1,0,77.55
+8735c937a659ef5138a7f5bd7bf59ae6,65.0,Male,Yes,Self-employed,Urban,never smoked,36.4,1,0,113.86
+e10a98a83f6cb1ad16055c17590063d3,37.0,Female,No,Private,Rural,never smoked,31.3,0,0,124.54
+9ce1997c40fe0c91f7c6388dae7d87da,64.0,Male,Yes,Private,Urban,smokes,28.0,1,0,57.42
+d279b7b85cdc6930ed48a94c79f7a92d,23.0,Male,No,Private,Rural,Unknown,31.8,0,0,82.39
+9a83913d9ec390148f3a78c0020c6d6d,17.0,Female,No,Private,Rural,Unknown,25.4,0,0,55.41
+0afe10374ed44384d76c0fda67034880,45.0,Male,Yes,Self-employed,Rural,smokes,27.6,0,0,75.25
+ffbc391008d6481ccf89703e9619a98c,1.16,Female,No,children,Urban,Unknown,17.0,0,0,65.01
+0024bd2092a4f3eaa6bd8c1728d3e007,53.0,Female,Yes,Private,Urban,never smoked,54.1,0,0,70.51
+59ddf212a2f06bad03faed73b6a7c5c6,1.08,Female,No,children,Rural,Unknown,17.5,0,0,60.53
+2c98005815b8652f236d1be11039c4bc,4.0,Female,No,children,Urban,Unknown,21.2,0,0,62.61
+6f46dd176364ccec308c2760189a4605,28.0,Female,Yes,Private,Urban,never smoked,24.7,0,0,98.05
+6dc959cf2c2dc5c782c0b94df8eb5ea2,82.0,Female,Yes,Self-employed,Rural,Unknown,32.5,0,1,88.6
+085774e529f8c6611741cdb352f364bc,38.0,Male,Yes,Private,Rural,never smoked,27.0,0,0,111.33
+be091795c6243ad74450cbc227947866,62.0,Female,No,Private,Rural,formerly smoked,33.8,1,0,77.04
+2ac74624f549e19f8b2797ebbd4269ea,6.0,Female,No,children,Rural,Unknown,18.6,0,0,66.33
+666108a9094a0ec0f62ca61a2eb74538,19.0,Female,No,Private,Urban,never smoked,21.7,0,0,87.72
+f5c5dbd66b2f7c9eae941ce0b7f4e4a5,57.0,Female,Yes,Private,Rural,smokes,60.9,1,0,129.54
+636e0538092a048a7d49aa0b20e2bff1,5.0,Male,No,children,Rural,Unknown,17.2,0,0,100.52
+eb30a0ede6e02b3430fe84fc601275e6,59.0,Female,Yes,Private,Rural,Unknown,,0,0,76.15
+9431c87f273e507e6040fcb07dcb4509,48.0,Male,Yes,Private,Urban,smokes,37.0,1,0,173.14
+2aa49677fddf127f4230c74ece40b8a7,60.0,Male,No,Private,Urban,never smoked,32.3,0,0,84.14
+ea8aeef5401513a8f81113ee9d157f22,19.0,Female,No,Private,Urban,Unknown,32.2,0,0,125.43
+0cbe4bc6e48014cf92b83275100700b1,69.0,Male,Yes,Self-employed,Urban,smokes,28.3,0,1,195.23
+4c830016c7e5cfea176c0f9cb233cd9a,61.0,Male,Yes,Govt_job,Rural,formerly smoked,22.2,0,0,112.95
+7f19fe61942d9dbc0834165049b3d799,79.0,Female,Yes,Private,Rural,never smoked,27.7,0,1,127.29
+853beae72ddb4f7a9b8c7c50dc0127e2,39.0,Male,Yes,Govt_job,Rural,formerly smoked,44.9,0,0,72.49
+dcf702356e8c9c78c3fd3e87f0d8896f,31.0,Female,No,Private,Urban,smokes,22.9,0,0,102.39
+9adfd9278c4f563a40d959aab6019c4c,44.0,Female,Yes,Private,Rural,Unknown,25.6,0,0,88.75
+ddc6dcb682f8fa80f20e986207d14e79,59.0,Male,Yes,Private,Rural,formerly smoked,26.9,0,0,69.37
+4f11b55f57612f06fe9638b99f6c66e6,31.0,Female,No,Self-employed,Rural,Unknown,29.9,0,0,70.65
+6fb52e71b837628ac16539c1ff911667,33.0,Female,Yes,Govt_job,Rural,formerly smoked,30.2,0,0,81.0
+e1b90346c92331860b1391257a106bb1,30.0,Female,No,Private,Rural,never smoked,17.3,0,0,73.69
+4a3e00961a08879c34f91ca0070ea2f5,37.0,Male,Yes,Private,Rural,smokes,,0,0,107.06
+e43e3fdcf035dc0dbff52eb64da61f79,41.0,Female,Yes,Govt_job,Rural,never smoked,29.9,0,0,146.08
+513622713be8b84fd8d5b783f6fc82b5,60.0,Male,Yes,Self-employed,Rural,Unknown,,0,0,212.02
+8e7af20b649bd58357ffc4aa7cf5e88f,33.0,Female,No,Private,Urban,never smoked,22.1,0,0,121.19
+b7a09dca296f4517c1c7b5ca5e72c412,42.0,Female,Yes,Private,Rural,never smoked,27.5,0,0,80.0
+9293eb98abb2abe316a3598a83c70514,82.0,Female,Yes,Private,Urban,Unknown,47.5,0,0,253.16
+453c5ee2c6f6cbdddf021c36677eedc4,30.0,Female,No,Self-employed,Urban,smokes,24.8,0,0,65.84
+0b7e926154c1274e8b602ff0d7c133d7,55.0,Male,Yes,Private,Rural,smokes,28.7,0,0,80.35
+a09a8faf13c2b40bbe7321e7525e0584,24.0,Female,Yes,Private,Rural,never smoked,23.1,0,0,97.92
+ae77492ecda002233a4f8e9f3a5973a1,50.0,Female,Yes,Private,Rural,smokes,31.4,0,0,102.16
+8648eb472d453171a22482f5ce0fe653,32.0,Male,Yes,Private,Urban,smokes,28.4,0,0,92.08
+6cf07013d1981650b3af295dea60765f,55.0,Female,Yes,Private,Urban,never smoked,21.2,0,0,71.02
+3713d66bff68568a81cc5bfd409a3703,2.0,Male,No,children,Rural,Unknown,20.5,0,0,111.02
+b451da363bb08b9a81ceadbadb5133ef,65.0,Female,Yes,Self-employed,Rural,formerly smoked,29.4,0,0,80.42
+58d6dc1e1a0aedaca5e1ad77a6181ae9,7.0,Male,No,Self-employed,Rural,Unknown,18.9,0,0,64.06
+0e915db6326b6fb6a3c56546980a8c93,53.0,Female,No,Private,Rural,formerly smoked,,0,0,235.45
+5f0238da3ebf4fbc26baeaa644331de5,50.0,Female,Yes,Self-employed,Rural,formerly smoked,49.5,0,0,126.85
+2073652e55aa1ecad6f87df8f1df77a5,72.0,Female,Yes,Govt_job,Rural,formerly smoked,21.9,0,0,118.22
+ac4f918b7c447a64707cb5c1567ea878,49.0,Female,Yes,Govt_job,Urban,smokes,39.4,1,0,56.37
+da08a103aa3d81d8832c98a1bc2bdb15,78.0,Female,Yes,Private,Urban,never smoked,41.7,1,1,227.16
+2e37d41c9bf5cbd339a02696196e9a7b,69.0,Female,Yes,Self-employed,Rural,never smoked,36.9,0,0,225.47
+44ab8b63c8f165307233810152191c89,45.0,Male,Yes,Self-employed,Urban,smokes,39.7,1,0,90.43
+219bca0424068065f16847266063c855,16.0,Male,No,children,Urban,never smoked,38.7,0,0,140.1
+eaf1a66017a328d8a48189145f9aabe0,48.0,Female,No,Private,Rural,formerly smoked,,1,0,118.14
+cbf4d310ea68b3933521ba359d33ed5e,67.0,Female,Yes,Private,Urban,formerly smoked,25.9,0,0,101.46
+33c5f5bff65aa05a8cd3e5d2597f44ae,3.0,Female,No,children,Urban,Unknown,22.6,0,0,78.79
+ec49e5ad761d1fef16cf05e64b429224,16.0,Female,No,Private,Urban,Unknown,22.5,0,0,58.02
+9a993917980a1319b27acd7ead4cd93b,38.0,Female,Yes,Private,Rural,formerly smoked,,0,0,101.45
+909f269e0b3ffbd61d906f9b25eecaf6,75.0,Female,Yes,Self-employed,Urban,smokes,40.4,0,0,60.6
+05e6ea1ce2bea1b055befc641545bbce,0.56,Male,No,children,Rural,Unknown,20.7,0,0,57.02
+884a06e5988eb41cfbd466142929bffe,16.0,Female,No,Private,Rural,Unknown,24.9,0,0,92.77
+85237feeff817d9ae295ca736165879d,3.0,Female,No,children,Urban,Unknown,17.5,0,0,74.52
+54229abfcfa5649e7003b83dd4755294,42.0,Female,No,Private,Urban,never smoked,18.5,0,0,98.53
+5967ef485df912237a11768414ffc831,80.0,Female,Yes,Private,Rural,never smoked,22.2,1,0,74.9
+8ec5325104e6c8053622fe4c9e1ad57a,31.0,Female,No,Private,Rural,smokes,26.4,0,0,87.81
+3c42555a0f207811514b92a13c697d04,45.0,Female,Yes,Private,Urban,formerly smoked,45.3,0,0,172.33
+abdebd176b9ac751c8d439fa621aec67,22.0,Female,No,Private,Urban,never smoked,21.6,0,0,73.4
+754abf02507264c05c99e9880a63bac2,21.0,Female,No,Private,Rural,never smoked,25.7,0,0,93.0
+1e01ba3e07ac48cbdab2d3284d1dd0fa,77.0,Male,Yes,Private,Urban,formerly smoked,20.9,0,1,102.96
+2e3d6c85a5e586f5d752a8b75e4794d9,39.0,Female,Yes,Private,Urban,never smoked,37.4,0,0,92.82
+3fcb92a09d7046beb32ecf310ac5663b,15.0,Male,No,Self-employed,Urban,never smoked,23.0,0,0,68.4
+dec3b026b81ee6d890a8f82f75c94a2e,53.0,Male,Yes,Private,Rural,smokes,26.0,0,0,95.47
+e7ef07aba734d868c88271b1810cb991,2.0,Male,No,children,Rural,Unknown,14.2,0,0,112.66
+3de2f5d6b216073b662a9e202fb4b556,48.0,Male,Yes,Self-employed,Rural,smokes,,0,0,216.88
+f0d7cd6a8d00b6d0a18533c5975731fd,31.0,Female,Yes,Self-employed,Rural,never smoked,43.3,0,0,108.64
+2d6b193c726e8dca956ac5dca28667b5,38.0,Female,Yes,Govt_job,Urban,never smoked,41.6,0,0,70.92
+af7db10d0be1b18150d81df39fac7dc7,58.0,Male,No,Govt_job,Rural,smokes,38.5,0,0,95.75
+f3482a102a8dfa7ecdf57d63ec37872a,75.0,Female,Yes,Govt_job,Urban,Unknown,20.9,0,0,73.89
+9774adeea02e9ea26eba932aa2a341a5,25.0,Female,Yes,Private,Urban,Unknown,24.5,0,0,84.25
+b68fa653f3e1836366b72596194b9545,48.0,Female,Yes,Self-employed,Rural,smokes,,0,0,209.9
+9a14ec361fce610fe377f9ddac34d238,65.0,Male,Yes,Self-employed,Urban,never smoked,21.5,0,0,66.69
+6cdafabd2dc2573e86fcda72fd1f5352,12.0,Female,No,children,Rural,never smoked,16.2,0,0,132.85
+a2790947391a51d18dc235eea344d981,8.0,Female,No,children,Urban,Unknown,20.6,0,0,80.47
+1a07bcc79f21590b3ed2622d5807bdd0,11.0,Female,No,children,Rural,Unknown,20.8,0,0,93.51
+2abbb67d13de26bdb4b9487c072ce63f,52.0,Male,No,Private,Rural,Unknown,36.2,0,0,69.37
+19eb5bae7646608e27d8ed32f02fad44,61.0,Male,Yes,Self-employed,Urban,formerly smoked,39.8,0,0,116.78
+f00c0eeb95f5a928c3814bc3b3ee962b,35.0,Female,Yes,Govt_job,Rural,smokes,44.8,0,0,97.6
+90610aa0e24f63ec6d2637e06f9b9af2,23.0,Male,No,Private,Rural,never smoked,31.2,0,0,93.74
+f5b4ba58e0f43b1703f6a5909b3fbffd,57.0,Male,Yes,Private,Rural,formerly smoked,34.5,0,0,197.28
+29c0605a3bab4229e46723f89cf59d83,2.0,Male,No,children,Rural,Unknown,18.2,0,0,111.32
+fec4fda5a4c431a493bf07426be54ae8,39.0,Male,Yes,Self-employed,Rural,never smoked,34.3,0,0,88.48
+bd0851853a1476c3b6674af2177972d2,41.0,Male,Yes,Private,Rural,never smoked,49.3,0,0,113.65
+4a9a54fadb6115f95f9c10fab3c1659c,40.0,Female,No,Private,Urban,smokes,32.4,0,0,78.04
+e2d11e2b2628eebf8a9bccb4b0c04cff,21.0,Female,No,Private,Rural,never smoked,21.8,0,0,55.12
+eacae45004a0c13190d023bb3daf0ad3,39.0,Female,Yes,Private,Urban,never smoked,35.7,0,0,122.91
+4e96fc8ecd81da214039f63f34965275,45.0,Female,Yes,Private,Urban,never smoked,22.3,0,0,90.35
+be925cdb6f03c1b58212df4c2831aedd,28.0,Male,No,Private,Urban,formerly smoked,36.6,0,0,116.02
+921891b9a8f434816795b7fcc10155cd,67.0,Male,Yes,Govt_job,Urban,formerly smoked,26.0,0,0,67.79
+e57323e01dc38ffd09d8d88107468c9e,16.0,Female,No,Self-employed,Urban,Unknown,27.1,0,0,88.85
+a226c158804add41d2c6f68be9ef731b,79.0,Female,Yes,Private,Rural,never smoked,31.1,0,1,201.38
+ca3a856a28df7d77d948949206ff9fdf,60.0,Male,Yes,Govt_job,Urban,smokes,20.2,1,0,213.03
+4b4234f02431d2179f5d18fd1db0ef8e,40.0,Female,No,Private,Rural,formerly smoked,32.7,0,0,63.45
+1716b7ad8e0141856caa671ee2bace6b,63.0,Male,Yes,Self-employed,Urban,smokes,32.2,0,0,248.37
+78af92f2de822f11d0ce3ab27432b09f,40.0,Female,Yes,Private,Urban,Unknown,38.2,0,0,153.24
+a1e3a354202eaf0efdf48a05108dbfe7,9.0,Female,No,children,Rural,Unknown,28.0,0,0,57.27
+843f2961ead4db0fbde78823983b6ad9,49.0,Male,Yes,Self-employed,Urban,formerly smoked,27.3,0,0,70.73
+2704910c10c56a7b11432fb3c698f10c,51.0,Male,No,Private,Rural,smokes,41.9,0,0,106.41
+60c97bef031ec312b512c08565c1868e,16.0,Male,No,Private,Urban,never smoked,21.4,0,0,82.95
+4c290319041a7b75c60a6261f74fea51,43.0,Female,Yes,Self-employed,Rural,Unknown,21.2,0,0,115.22
+984da878ed3cbfe513b2dc947a15f7a7,59.0,Male,Yes,Govt_job,Urban,smokes,36.7,0,0,216.0
+dba13c2a9864b7e05a5ad27913f8a1d2,75.0,Male,Yes,Private,Urban,smokes,25.8,1,0,221.29
+0e480368d457e13eb9117a57a2828170,10.0,Male,No,children,Urban,Unknown,19.1,0,0,102.97
+3a1f85dfef891b2a3685ccb35efa807e,76.0,Male,Yes,Private,Rural,never smoked,30.5,1,0,267.6
+6f8caa0e6413027cb7a12f945151cb8d,21.0,Male,No,Private,Rural,smokes,28.4,0,0,92.87
+84fdbc3ac902561c00871c9b0c226756,3.0,Female,No,children,Rural,Unknown,25.8,0,0,97.6
+48bad81a248a58b3f358dca7495142c1,5.0,Male,No,children,Rural,Unknown,15.0,0,0,79.33
+31dd7223d9103a8b518281cc099139b8,57.0,Male,No,Govt_job,Urban,Unknown,,0,1,217.08
+766ebcd59621e305170616ba3d3dac32,14.0,Female,No,children,Rural,Unknown,22.8,0,0,92.22
+51cdbd2611e844ece5d80878eb770436,46.0,Male,Yes,Private,Urban,smokes,32.1,0,0,85.35
+68897f19b106926ed889fe3f7e3d01c9,21.0,Female,No,Private,Urban,Unknown,20.3,0,0,78.35
+ef8ca39387015a7eeac2a0391b08294e,41.0,Male,No,Private,Rural,formerly smoked,,0,0,70.15
+df3533caf8f1bedde6a6633d90819e82,41.0,Male,Yes,Private,Urban,Unknown,30.3,0,0,104.34
+586f9b4035e5997f77635b13cc04984c,79.0,Female,No,Self-employed,Rural,Unknown,30.4,0,0,82.07
+995d8b30b557a46be7d27e26b689ad55,37.0,Female,Yes,Private,Rural,Unknown,24.4,0,0,86.49
+fd82bcc747197ebb3ecdf6d87e0d86b3,47.0,Female,Yes,Private,Rural,never smoked,45.5,0,0,195.04
+218cd537985727ce1e12087da339ef10,57.0,Male,Yes,Private,Rural,Unknown,24.7,0,0,82.08
+d00ee48c45cc306b2b1db3385024a6b6,59.0,Male,Yes,Govt_job,Rural,never smoked,32.6,1,1,81.51
+170c73ca45ab90acc02e61427b768795,77.0,Female,Yes,Private,Rural,smokes,29.5,0,0,100.85
+5cf21ce30208cfffaa832c6e44bb567d,43.0,Female,Yes,Private,Urban,smokes,47.6,0,0,100.88
+90f28361a8f0a7511e56361f24b27549,24.0,Female,No,Private,Rural,smokes,24.9,0,0,187.99
+d29359fdfc4921dc7f4d642eba549705,39.0,Female,Yes,Private,Rural,smokes,26.6,0,0,102.51
+b496ec6fe0e41e4901e4a8345656a8c1,40.0,Female,Yes,Private,Urban,Unknown,46.4,0,0,72.99
+4f0adf8dde494dff7c0c6ed4df420520,62.0,Female,Yes,Private,Rural,never smoked,27.9,0,0,98.05
+57f2b3cf26b3d12b9ecd389b401a1300,52.0,Female,Yes,Private,Urban,never smoked,54.7,0,1,72.79
+2902ac56b406826143acf6502c4adc7b,33.0,Male,Yes,Private,Rural,formerly smoked,30.3,0,0,88.04
+9c16a45c187ff93ce1369ccefb4b2fa7,13.0,Female,No,children,Urban,Unknown,18.4,0,0,105.22
+3000311ca56a1cb93397bc676c0b7fff,58.0,Female,No,Private,Urban,formerly smoked,34.7,0,0,82.01
+47823830e833cc8d8d2b261e81e96a2a,41.0,Female,Yes,Private,Rural,never smoked,20.4,0,0,121.44
+fb625cdc5b14270aad1604ba3afa16db,37.0,Male,Yes,Private,Urban,never smoked,25.2,0,0,79.56
+8c4051f36d90b7b3639e7309189113d2,39.0,Female,Yes,Private,Urban,smokes,37.2,0,0,243.52
+d65b2380db7034b728e66d696863cf2d,24.0,Male,No,Private,Urban,smokes,37.5,0,0,84.16
+de01d76e793fec3fba32f4401a45fb20,69.0,Male,Yes,Private,Rural,formerly smoked,29.8,0,1,216.9
+4ef10445b952a8b3c93a9379d581146a,57.0,Male,Yes,Private,Rural,formerly smoked,31.0,0,1,62.2
+b1581dabe47e0b0226b8676db1b46972,6.0,Male,No,children,Rural,Unknown,17.4,0,0,64.55
+740a02d0786a4239a62076f650cd26da,55.0,Female,Yes,Private,Rural,smokes,32.8,0,0,112.47
+4e246a381baf2ce038b3b0f82c7d6fb4,32.0,Female,Yes,Private,Rural,smokes,26.6,0,0,102.87
+dfc6aa246e88ab3e32caeaaecf433550,82.0,Male,Yes,Self-employed,Urban,formerly smoked,27.9,0,1,228.92
+a16f1bb307068c3c9e396d49fb9a8e05,53.0,Male,Yes,Private,Urban,smokes,27.8,0,0,142.64
+396f2f40f528b0bcfeb546b915917247,38.0,Female,Yes,Private,Rural,formerly smoked,24.2,0,0,84.79
+ce917ddb8ea54009509c2e640b9228e5,57.0,Female,Yes,Private,Rural,never smoked,35.8,0,0,81.42
+5434d832e0dd3baab78c581eb7414b31,43.0,Female,Yes,Private,Urban,never smoked,32.7,0,0,93.3
+241982732a61f33f16414e0d94a49e22,49.0,Male,No,Private,Urban,Unknown,24.0,0,0,95.79
+6602aa0b985afb4059ebbebf05e46d76,76.0,Female,Yes,Govt_job,Urban,never smoked,23.5,0,0,204.05
+788304097fce3e5d98c48cb17ebf155c,10.0,Male,No,children,Urban,Unknown,15.8,0,0,76.92
+e0ae4561193dbf6e4cf7e8f4006948e3,68.0,Female,Yes,Private,Urban,smokes,26.6,0,0,237.21
+f928b521c5648ee6d6ece6d143bf232d,52.0,Female,Yes,Private,Urban,never smoked,28.1,0,0,107.29
+b1f6c0ad82dc2859e28e9f78dd886f06,20.0,Female,No,Private,Urban,Unknown,26.8,0,0,100.81
+9cc9632c123c563929a45066cda7b44a,9.0,Female,No,children,Rural,Unknown,18.0,0,0,69.87
+248fc25e78dfd13c7f22da88e4b79924,7.0,Male,No,children,Urban,Unknown,18.6,0,0,77.12
+32d189e408c9b44c80d83014648afc98,2.0,Male,No,children,Rural,Unknown,16.1,0,0,65.84
+3fbbfaaf7d1aca298bf899e099ff6c93,46.0,Male,Yes,Self-employed,Rural,formerly smoked,29.3,0,0,88.19
+d6dee97af59164b2d3a186e03d8ebdf0,45.0,Male,Yes,Private,Rural,Unknown,23.8,1,0,136.2
+7252cda8df37ce8227fc9f7dd9a83dea,45.0,Female,Yes,Private,Urban,never smoked,21.0,0,0,100.84
+bcd4bfc2422e751e0f57c5bf3f324da1,78.0,Male,Yes,Self-employed,Rural,formerly smoked,29.6,1,1,199.88
+fe58d3025135dd869e06da4e931660dd,55.0,Female,Yes,Govt_job,Urban,smokes,29.1,0,0,198.36
+a598e7d200bf02558d5534839884b7a3,45.0,Male,Yes,Self-employed,Rural,Unknown,52.5,1,0,239.19
+52f01a9665e3be7c05d2fb6cf8bb8082,82.0,Female,Yes,Private,Rural,never smoked,33.2,0,0,59.32
+1d9f2d61aaea68a6a1d6661b2d1f9bde,21.0,Male,No,Private,Urban,never smoked,24.3,0,0,138.51
+b6bd8abe786515cfd1f3ab8f6a57a7a7,28.0,Female,Yes,Private,Rural,never smoked,28.6,0,0,141.15
+dee39f3a5ab881ab30a36b0ee71300aa,67.0,Female,Yes,Self-employed,Rural,never smoked,24.9,0,0,110.42
+559a625353723964777aeaeb47124a7f,32.0,Female,Yes,Private,Urban,never smoked,38.0,0,0,81.92
+0ebd0b8b51eb0d0062065a7657486c8e,75.0,Female,Yes,Self-employed,Rural,never smoked,32.4,0,0,74.79
+5c3165e90eb8727c7dd0f9434cbd2bba,30.0,Female,No,Private,Urban,smokes,37.0,0,0,75.19
+07e99f116b916656b3fd4f7dd58a3cbe,6.0,Male,No,children,Rural,Unknown,17.7,0,0,131.43
+df5dc3b37c85f44ca47bc48aef476224,1.8,Male,No,children,Urban,Unknown,17.1,0,0,153.31
+5abee774a7f16efc9f8a836d2609bbc9,46.0,Male,Yes,Private,Rural,never smoked,24.3,0,0,138.07
+6986bd1d4afaa6bb9b1fccb7cb46cd92,63.0,Male,Yes,Private,Rural,Unknown,30.3,0,0,77.82
+787afca6b6dd1f06fc22e4b52b0b89bf,78.0,Male,Yes,Self-employed,Urban,formerly smoked,24.1,0,1,101.53
+41536261fe223b1424d5b6982caaaae2,32.0,Female,Yes,Self-employed,Rural,smokes,26.3,0,0,128.72
+e90925dc271ec13b3e8f0bf306759bd5,55.0,Female,Yes,Govt_job,Urban,never smoked,28.0,1,0,186.4
+fd8668f12aeaf01706a68684f066f7a4,52.0,Female,Yes,Private,Urban,smokes,27.2,1,0,155.86
+e1f5b6486cfc532a00cbc1ef67b40358,42.0,Female,Yes,Private,Rural,formerly smoked,23.8,0,0,82.24
+663505be9a16bb557423d4d7af8f9cba,48.0,Female,Yes,Private,Urban,never smoked,28.9,0,0,113.87
+a69b9ecf4cf7f3f9b68464232048c737,18.0,Female,No,Private,Urban,Unknown,27.7,0,0,146.59
+98ca71ddc4a8306c1f822ae5123be344,36.0,Male,Yes,Private,Urban,never smoked,29.6,0,0,56.42
+e9527aec68523b8ceb74e12b8685b96a,13.0,Male,No,children,Urban,Unknown,24.3,0,0,82.38
+cbf58b1eaf9036896b5f53f8769f2b6c,33.0,Female,Yes,Private,Rural,formerly smoked,38.6,0,0,88.17
+0b3f44d9054402de39441e165a4bdfe0,78.0,Male,Yes,Private,Urban,Unknown,,0,1,219.84
+5a64e013840f248e9ca5d648856a6cba,28.0,Female,Yes,Private,Rural,never smoked,22.1,0,0,64.64
+690f44c8c2b7ded579d01abe8fdb6110,2.0,Male,No,children,Rural,Unknown,20.8,0,0,73.62
+8d47aebdb84e4e7eaf27978a8fd00fe8,74.0,Female,Yes,Private,Rural,formerly smoked,34.4,0,0,66.32
+01b5df4ce38b543427a9497df6a6e55d,57.0,Male,Yes,Private,Urban,formerly smoked,41.5,1,0,80.72
+76e2c7418c7293151dde68a770b6fc56,26.0,Male,Yes,Private,Urban,never smoked,20.0,0,0,70.61
+e1b97c787a5677efa5eba575c41e8688,44.0,Male,Yes,Private,Urban,never smoked,33.1,0,0,99.34
+61a04a515114b7c2572233d2f8714600,40.0,Female,Yes,Private,Rural,never smoked,36.6,0,0,74.51
+f26dab9bf6a137c3b6782e562794c2f2,51.0,Female,Yes,Private,Urban,never smoked,28.4,1,0,88.2
+fa05f2ed50f815a1df8816c05f2e9ecf,31.0,Male,Yes,Govt_job,Urban,formerly smoked,30.4,0,0,65.7
+cf71e6c7399eafbcdc329202e5ce54f4,34.0,Male,No,Govt_job,Urban,Unknown,22.2,0,0,72.75
+757334847f188c6304b84ec6b018a965,44.0,Female,Yes,Private,Urban,smokes,28.8,0,0,73.87
+512fc3c5227f637e41437c999a2d3169,28.0,Male,No,Private,Urban,Unknown,32.7,0,0,74.61
+16b3c684e83d985bb7b493cf75bbb145,75.0,Male,Yes,Self-employed,Rural,never smoked,25.3,0,0,82.35
+d23941275ef524a546d5921aa8c5af2d,80.0,Male,Yes,Self-employed,Rural,never smoked,26.8,0,0,236.84
+bd1de862c509c34de95c9a2655e48586,75.0,Female,Yes,Private,Rural,Unknown,27.8,0,0,106.33
+5999d574e8875e9a4f7e6aeddbfd4899,19.0,Female,No,Private,Rural,never smoked,24.7,0,0,66.7
+9802e8b631921383a4b9426bbae4a531,10.0,Male,No,children,Urban,Unknown,25.4,0,0,70.7
+5723aa963dd4fc65b5ebce3950d57fb4,63.0,Male,Yes,Private,Urban,formerly smoked,35.2,0,0,92.27
+488c2841035bf8ce2c6872c93241024d,62.0,Male,Yes,Private,Rural,never smoked,32.3,0,0,62.56
+f6e816fe92e0527f5957ce70a67f22a7,67.0,Female,Yes,Private,Rural,formerly smoked,28.0,0,0,62.66
+4adc2d13b1a41b5e1652d957fc6f2082,55.0,Male,Yes,Private,Rural,formerly smoked,28.9,0,0,56.87
+19fadb255d5df879f17dc1cfb7d9969d,18.0,Female,No,Private,Urban,Unknown,46.9,0,0,82.85
+dedaeedfd0cbd8920d5bffb550d1de2b,77.0,Female,Yes,Self-employed,Urban,never smoked,31.4,1,0,124.13
+aec0b64bd8c92c5b7eacea000cff67e0,23.0,Male,No,Private,Rural,Unknown,25.3,0,0,88.06
+37281569c4df0307a395bbae7abc1c7f,22.0,Female,No,Private,Urban,never smoked,22.0,0,0,130.34
+702cafa3bb4c9c86e4a3b6834b45aedd,55.0,Female,Yes,Private,Urban,never smoked,19.8,0,0,65.22
+a7315507b92cd1a1c71bd27f92c0869c,68.0,Female,No,Govt_job,Urban,smokes,29.1,0,0,121.66
+7b1c718f91de50d902e00762ad5cac28,1.72,Male,No,children,Urban,Unknown,17.6,0,0,75.79
+834e43588167648b6f83961cf22f940e,57.0,Female,Yes,Private,Urban,never smoked,32.3,0,0,231.31
+ea5d180498a00ab2c3246396a7052ad2,34.0,Female,Yes,Private,Urban,formerly smoked,28.0,0,0,83.07
+2d1cf69466793ffabe159495a3c28825,24.0,Male,No,Private,Rural,formerly smoked,28.1,0,0,91.21
+b73aff8e3b577077af2cefe8aa76c39a,38.0,Male,Yes,Private,Rural,smokes,34.8,0,0,79.22
+145756e80e1aa6f940792751a4b9d05c,59.0,Female,No,Private,Rural,never smoked,23.5,1,0,57.26
+75f83581dbe3440aea46539676d70efe,61.0,Female,Yes,Self-employed,Rural,never smoked,29.9,0,0,69.77
+9e5d9d86ab5a026ba358ce6a7ffa4bc6,49.0,Male,Yes,Private,Rural,never smoked,27.0,0,0,62.64
+0926dc069ff7d2dec4f2554e17e6bdcb,39.0,Female,Yes,Self-employed,Urban,formerly smoked,40.0,0,0,87.79
+f0cf79f9b81720b964207ac2fde19be8,44.0,Female,No,Private,Urban,smokes,29.8,0,0,127.21
+a945b8df1138a3ea68b392d844133db7,9.0,Male,No,children,Urban,Unknown,14.9,0,0,84.4
+a6e842dce99aa528746b6e44f6f79dd0,69.0,Female,Yes,Self-employed,Rural,never smoked,25.9,0,0,110.96
+9b5af8696030810f396c315b9577ffd0,33.0,Female,Yes,Private,Rural,never smoked,25.1,0,0,131.28
+0c43763b1515136b7ab5a8974a58b6b1,36.0,Male,Yes,Private,Urban,never smoked,30.9,0,0,77.26
+faff959d885ec0ecf70741a846c34d1d,26.0,Male,No,Self-employed,Urban,formerly smoked,31.9,0,0,200.28
+dba0ff02313bd467ce9d52df8d6c80e6,19.0,Female,No,Private,Urban,Unknown,26.6,0,0,76.57
+0a743fa0de869f27f06d695734781401,61.0,Female,Yes,Self-employed,Urban,formerly smoked,29.3,0,0,75.46
+ba95d78a7c942571185308775a97a3a0,25.0,Female,Yes,Private,Rural,formerly smoked,55.1,0,0,68.78
+f5bff02c9cd125d255a41bba3ff614aa,24.0,Female,Yes,Private,Rural,formerly smoked,27.0,0,0,156.43
+0dbb3fb9a5cd1d5f8a9075b5bb8070aa,70.0,Female,Yes,Self-employed,Urban,formerly smoked,34.2,1,0,89.13
+b2ca2462640027c746327f5b9956c303,36.0,Female,Yes,Private,Urban,Unknown,26.4,0,0,124.31
+976797cb85805d626fc5642aa5244ba0,22.0,Female,No,Private,Rural,Unknown,27.7,0,0,79.81
+e8d6b501bfa2981bd4c4a7a2eb822b28,9.0,Male,No,children,Urban,Unknown,31.9,0,0,93.24
+4dfc7d9837cfd2d64cce759e51bf333c,17.0,Male,No,Private,Rural,Unknown,27.6,0,0,69.45
+92703b40f4978c54122f6ecedb781546,44.0,Female,Yes,Govt_job,Urban,never smoked,35.5,0,0,67.06
+cf5a0f1371aa30a9f080f64baf566edd,41.0,Male,Yes,Govt_job,Urban,never smoked,29.3,0,0,84.1
+e52da5a31de788599378924f0e639557,1.08,Male,No,children,Urban,Unknown,19.5,0,0,86.09
+378f322cfe754a8f5d987afb5faa6312,73.0,Female,Yes,Private,Rural,never smoked,36.5,1,0,190.14
+ba6e2e4b73e1e6e4a26f41c631ba0f0a,37.0,Female,Yes,Private,Rural,never smoked,33.2,0,0,76.03
+2ee2b82af4bb59ba0c5773d149146e05,71.0,Male,Yes,Govt_job,Rural,formerly smoked,33.4,0,0,99.76
+6195d077f289501b56d5c5bef16e1963,78.0,Female,Yes,Private,Rural,never smoked,,1,1,206.53
+908b9c4c6b4ddb779aa73654b03acfed,42.0,Female,Yes,Self-employed,Rural,never smoked,38.0,0,0,75.34
+d281706a315b6f8c5854acc72059b2d0,78.0,Female,Yes,Self-employed,Rural,formerly smoked,,0,0,60.67
+3d0e9613972282a4e53f300f804c1b4f,22.0,Female,No,Govt_job,Urban,Unknown,31.8,0,0,79.57
+f87b7d1f666a0a1d86568485a520bffa,75.0,Female,Yes,Self-employed,Urban,Unknown,25.1,0,0,108.62
+6928deac51a9dcc1f063ccec46d3c067,71.0,Male,No,Govt_job,Rural,never smoked,30.9,1,1,216.94
+caa202034f268232c26fac9435f54e15,32.0,Female,No,Govt_job,Urban,Unknown,20.4,0,0,108.23
+e143deaaa05532392f9ab5ca2af8fd2c,78.0,Male,Yes,Self-employed,Urban,Unknown,30.8,0,1,87.77
+36b14516d8f92201b3ff6326fec41872,9.0,Female,No,children,Urban,Unknown,27.4,0,0,109.32
+d73e7fdfeaeae6c2045d900e44e80d3b,18.0,Female,No,Private,Urban,Unknown,23.5,0,0,70.54
+d4be5395ff28a5a25aa7e28646cfa3d4,52.0,Female,Yes,Private,Urban,Unknown,28.2,0,0,120.25
+415c6b765a8624853b9717c027119461,28.0,Female,No,Private,Urban,Unknown,23.6,0,0,103.78
+616996895f8fbde61cf176ee9e7aecfd,41.0,Male,No,Self-employed,Urban,Unknown,33.5,0,0,87.44
+f863c1c3ef0a21f87d108f0c0fac757a,78.0,Female,Yes,Govt_job,Urban,never smoked,24.8,0,1,70.21
+fb506ffc6e2e1c236f9b26dcb5dcc862,14.0,Male,No,children,Urban,never smoked,20.3,0,0,101.87
+6f2c88b9135a5473b22386fd9f0632b1,51.0,Male,Yes,Private,Rural,formerly smoked,25.0,0,0,86.95
+4e21f96122846f32545687ad42b271e2,36.0,Female,Yes,Private,Rural,formerly smoked,28.7,0,0,90.22
+944eefd22dfe99fe7631b8ecc732c7cf,17.0,Female,No,Private,Urban,never smoked,39.2,0,0,87.52
+288cd2567953f06e460a33951f55daaf,79.0,Female,No,Private,Rural,never smoked,25.5,0,0,239.52
+17037e652480347d4c1ac09ccac275ba,46.0,Male,Yes,Private,Rural,formerly smoked,24.7,0,0,114.46
+788fa30233fcab2260b28ae40dde74a7,61.0,Male,Yes,Private,Urban,formerly smoked,25.1,0,0,84.12
+0c7e40bfa57cbf423a47c65fcd380c1a,66.0,Female,Yes,Private,Rural,never smoked,28.5,0,0,141.24
+ae922cf52884c98814fdc2d6ea786719,52.0,Female,Yes,Private,Rural,Unknown,25.0,0,0,200.46
+56347b253e2db8ccdcc26e93fc09adaf,31.0,Female,Yes,Private,Urban,smokes,25.5,0,0,60.06
+c9ce8e8f8b6eceae62096b3b1cfd8989,39.0,Male,Yes,Private,Rural,smokes,24.7,0,0,91.85
+8c6d39a0e9e6f344fb6a2d83c7c6787c,70.0,Male,Yes,Private,Rural,formerly smoked,33.5,0,0,90.3
+e21474d71ab3960b460f6f65ba4763df,64.0,Male,Yes,Private,Rural,smokes,30.2,1,0,78.43
+4f2bed48f31aa4f70b89c5e87a60e3e9,11.0,Male,No,children,Rural,Unknown,20.4,0,0,96.91
+67249303d47d37fe078e1439f958b92b,50.0,Female,Yes,Govt_job,Rural,never smoked,25.6,0,0,77.67
+d6cc51aa91643b5087506eb1eb0005bd,49.0,Female,Yes,Govt_job,Urban,never smoked,47.6,0,0,69.92
+b809bdf0840b940f7648840d2825b392,54.0,Female,Yes,Self-employed,Urban,never smoked,26.9,0,0,56.75
+aa0d2a804a3510442f2fd40f2100b054,52.0,Male,No,Private,Rural,smokes,31.2,0,1,101.5
+f4829b9504d0ec0985719d9a7e2455a2,58.0,Male,No,Self-employed,Rural,Unknown,30.7,0,0,170.93
+7fe30f83b8e5444c948077a061740793,47.0,Male,Yes,Private,Urban,smokes,26.8,0,0,63.98
+93e27b2b102bb4e2b3dc76f91944ada8,56.0,Male,Yes,Self-employed,Urban,never smoked,31.5,0,0,94.07
+5af2de2fbcd7535745699d05f0481ca4,77.0,Female,Yes,Private,Urban,never smoked,32.9,0,0,250.8
+060c6421d9f587d314aed73fe78d72c2,42.0,Female,Yes,Private,Urban,never smoked,27.9,0,0,191.94
+872def1eaad20180f042ac8764629220,53.0,Female,Yes,Private,Urban,never smoked,25.4,0,0,88.38
+d74a5ee4e5737deb83b60cae60411071,67.0,Male,Yes,Private,Urban,formerly smoked,35.7,0,0,238.78
+ce521a6cd1e1ff6e0a6048414df95158,54.0,Female,Yes,Private,Urban,never smoked,32.4,0,0,129.16
+ad1b9f5b8b6ae132a75d8f9f87e081cd,63.0,Female,Yes,Self-employed,Rural,smokes,32.2,0,1,239.95
+6e4c918c493cf1298a3188c00e0b662b,57.0,Female,Yes,Self-employed,Rural,never smoked,34.2,0,0,128.28
+86fe37cd03aa605545a7854608e98c35,73.0,Male,Yes,Private,Rural,formerly smoked,31.6,0,1,82.15
+0b921d8fd554dbac8df556dffc3828a6,1.72,Male,No,children,Urban,Unknown,17.1,0,0,77.28
+9ad979a3e9c4a86cec2f942d04762d7e,74.0,Female,Yes,Self-employed,Rural,never smoked,27.0,0,0,95.94
+9508e33866145631ca76768f61282f2c,47.0,Female,Yes,Private,Urban,smokes,23.8,0,0,99.36
+fbc6aa2bee0c3b173eb52410997ae365,46.0,Male,No,Private,Urban,Unknown,37.4,0,0,124.61
+4662efebaa2ef1b42bb1097a941393ef,80.0,Male,Yes,Self-employed,Rural,never smoked,28.8,1,0,232.12
+d3b724e14dfe42f0a53c86dc5aafd20f,32.0,Male,No,Private,Rural,Unknown,,1,0,74.43
+a26a98a66f040ac3ba0161970cb4e791,16.0,Female,No,Private,Urban,Unknown,22.6,0,0,136.23
+644031b2456be99e563d64d548beb42e,32.0,Female,Yes,Self-employed,Urban,smokes,24.0,0,0,110.33
+43a115cbd6f4788924537365be3d6012,12.0,Female,No,children,Urban,Unknown,26.5,0,0,86.55
+89332a47697d46ed6543d51ac348bafb,22.0,Female,No,Private,Rural,smokes,40.4,0,0,102.0
+ff7cc29289db44861ce4b3e5e56fe234,63.0,Male,Yes,Govt_job,Urban,formerly smoked,37.8,0,0,95.16
+4c74dcfeac90df69aed5c8a90125e696,13.0,Female,No,Never_worked,Urban,never smoked,22.9,0,0,70.93
+3ad8620baf132c24e02c376672dff6b6,79.0,Male,Yes,Self-employed,Urban,never smoked,25.2,0,0,105.93
+0832f3473e5c452694a193e668e38ad1,13.0,Male,No,children,Rural,Unknown,24.3,0,0,85.87
+524ef470750593be393c662669144abf,30.0,Male,No,Private,Rural,formerly smoked,25.4,0,0,82.56
+53763bcddb83f147196d1d54a91ccc24,81.0,Female,Yes,Self-employed,Rural,formerly smoked,29.6,0,0,101.32
+87d2df31d91c857ffb1a3d5caf45f766,44.0,Male,Yes,Govt_job,Rural,never smoked,26.6,0,0,87.49
+0c1a29f8068e52005b8a21d538aaee23,57.0,Male,Yes,Govt_job,Rural,never smoked,28.2,0,0,76.62
+6ea418ae14fcdebc7f5a4b33597e6e57,18.0,Male,No,Self-employed,Urban,Unknown,23.7,0,0,74.0
+328ffd5b7bac35dd51c914156e01007a,26.0,Female,No,Govt_job,Urban,never smoked,36.3,0,0,88.88
+532b81fa223a1b1ec74139a5b8151d12,2.0,Female,No,children,Rural,Unknown,21.2,0,0,80.3
+f59db0df527cd9bc7b7d71b6e35ee6d7,51.0,Male,Yes,Self-employed,Urban,smokes,35.7,0,0,69.18
+a0164cbfe882aa11e433a6b503cb62db,31.0,Female,No,Private,Rural,never smoked,34.3,0,0,91.08
+a0e7be097b3b5eb71d106dd32f2312ac,46.0,Female,Yes,Govt_job,Urban,smokes,24.3,0,0,162.24
+2157b6d660df50a65047393f125c07ab,73.0,Female,Yes,Private,Rural,formerly smoked,29.9,1,0,60.98
+c96aa42f76797d2b27e68ee4ccd8a8c8,27.0,Female,No,Private,Rural,never smoked,20.1,0,0,104.33
+4c9d1fbce4890fc2731b6a61262313b1,46.0,Female,No,Private,Rural,Unknown,55.0,0,0,79.63
+bec86aeee7d10a957750af645055a115,62.0,Female,Yes,Self-employed,Urban,formerly smoked,31.8,0,0,180.63
+4d78ebf86f5ae4db24143c8a2af603b2,70.0,Male,Yes,Private,Urban,formerly smoked,33.0,1,0,65.98
+942a53ace1564ad30d1635b222e3c32e,61.0,Male,Yes,Self-employed,Rural,smokes,27.3,1,0,76.11
+24435aa6207c452e7bc15cc74b42c7bb,13.0,Male,No,children,Rural,Unknown,18.2,0,0,137.45
+c65f7cf37da54f80820785cd61531249,14.0,Female,No,children,Rural,never smoked,25.3,0,0,101.6
+db116b39f7a3ac5366079b1d9fe249a5,47.0,Female,Yes,Govt_job,Urban,smokes,31.2,0,0,100.31
+5ff21d527429968e1ac51f8304ed4480,56.0,Female,Yes,Private,Rural,never smoked,40.8,0,0,77.66
+900c563bfd2c48c16701acca83ad858a,54.0,Female,Yes,Private,Rural,Unknown,26.5,0,0,81.26
+85c018bd6f55029030e522d8abc257ee,53.0,Male,Yes,Govt_job,Rural,never smoked,24.1,0,0,86.0
+1eb590c1259ff05809830227e2b7e782,26.0,Female,No,Private,Rural,never smoked,23.2,0,0,69.77
+045553da60ec142f6f13e38847af1382,80.0,Male,Yes,Private,Urban,never smoked,27.0,1,0,240.09
+423822e873a9feb1437a4855cf7fe6b2,77.0,Male,Yes,Self-employed,Urban,smokes,23.0,0,0,60.77
+4ef88f93ef292fac0b477e6fac64236f,7.0,Male,No,children,Urban,Unknown,20.4,0,0,98.12
+9c3d8b4f680f08008c37278b8b3f076e,25.0,Male,No,Private,Rural,formerly smoked,35.3,0,0,113.8
+cd57f0e0803b1de501b6a3d9b38f4173,2.0,Male,No,children,Rural,Unknown,20.8,0,0,68.52
+271f17707d8bfd2cd45f7e5182298703,15.0,Female,No,children,Rural,Unknown,18.3,0,0,77.57
+84dbc38ef1e504a8387d58c6ed3f5439,18.0,Female,No,Private,Urban,never smoked,19.4,0,0,67.92
+d50bd39fbde1ad92dcc753562cfd5ef3,51.0,Female,Yes,Govt_job,Rural,formerly smoked,27.3,0,0,103.43
+aea76ed2f98e26f9116049d0376ba275,65.0,Female,No,Govt_job,Urban,never smoked,31.3,0,0,60.7
+9729ff38b7b66eaaef510772cc01f52c,78.0,Male,Yes,Private,Urban,formerly smoked,,0,0,237.75
+c1116cb3a7926c97afdfa5b2c8f81cd3,40.0,Female,No,Govt_job,Rural,never smoked,32.3,0,0,70.56
+0d730fb2cb696e47fbbe4b2054b10de7,15.0,Female,No,children,Urban,Unknown,20.2,0,0,81.11
+3bbfdde8842a5c44a0323518eec97cbe,42.0,Female,No,Private,Urban,never smoked,31.4,0,0,84.03
+74a8f422384efdde31be88a2d2a2d358,52.0,Female,Yes,Private,Rural,never smoked,32.0,1,0,213.54
+b96615420bfb922ac923024cd34ed868,78.0,Male,Yes,Self-employed,Urban,Unknown,34.0,0,1,228.7
+737eb13c7593133a06c7ac5b90d15d2a,56.0,Male,Yes,Private,Urban,Unknown,31.1,0,0,78.93
+7f9d88fe83d3e7fce3136e510b0a9a38,78.0,Female,Yes,Private,Urban,never smoked,24.1,0,0,89.42
+d332fa8b42d6eeb7236bfecde8ee379b,40.0,Female,Yes,Private,Rural,never smoked,42.4,0,0,95.04
+5d78874deb55feb4820dd9421411b3d1,79.0,Female,Yes,Self-employed,Urban,formerly smoked,30.0,1,1,200.28
+65173795697c8229dd202ad94e821bab,39.0,Female,Yes,Private,Rural,Unknown,28.1,0,0,69.58
+9aa7669e27dc86596f73a2fbacab9045,14.0,Female,No,children,Urban,Unknown,31.0,0,0,131.77
+014fc365a3197e74d7cd35e0cd7925d6,4.0,Male,No,children,Rural,Unknown,19.9,0,0,62.48
+c28d7fcab728585c954bfc481edb2f43,34.0,Female,Yes,Private,Rural,formerly smoked,37.3,0,0,89.31
+276441f6460de74a1b4099238d203427,24.0,Male,Yes,Private,Urban,smokes,21.9,0,0,83.1
+b50a2d5cb97432f08ef7523ec1d9f0ad,55.0,Female,Yes,Private,Urban,never smoked,54.8,1,0,206.4
+9926b3ed9e0bc20b2ed7f32711b8b45f,62.0,Female,Yes,Self-employed,Rural,never smoked,34.0,1,0,74.32
+70a80f5f4e55c742251070425a07df18,49.0,Male,Yes,Self-employed,Rural,formerly smoked,30.4,1,0,119.3
+5dc8c5a8868c77ddf8a8e1aa840c8884,56.0,Female,No,Private,Rural,smokes,26.6,0,0,74.35
+95f8a41d276ddf36bcdc87d53627da29,62.0,Female,Yes,Govt_job,Urban,never smoked,24.5,0,0,67.07
+8ad124e01f97c4cf812b49a875fc0965,29.0,Female,No,Self-employed,Rural,Unknown,19.6,0,0,67.56
+ce867b36bcbf133d7c9fd42d30b43327,65.0,Female,Yes,Govt_job,Urban,Unknown,39.4,0,0,84.84
+7b5ad0c52e58076e34f393efe9019ed2,16.0,Male,No,children,Rural,Unknown,22.4,0,0,106.11
+15727725d8796a98b77975b777e43cb9,70.0,Female,Yes,Private,Urban,never smoked,47.5,0,0,221.58
+3e3ea017c905534b29ca90d9d8d24c80,52.0,Male,Yes,Private,Rural,smokes,30.7,1,0,74.64
+daad2c59031ec67bcf6d5520e5da7af3,21.0,Female,Yes,Private,Urban,never smoked,26.9,0,0,126.35
+8dcf968c43d65050f537016585c1aa15,38.0,Female,Yes,Private,Urban,never smoked,27.7,0,0,77.35
+7c74782c46a2cecf21f674c10da18534,40.0,Male,Yes,Self-employed,Urban,smokes,24.8,1,0,93.2
+2e01a0325393a30dda806b00be911c5d,52.0,Female,Yes,Private,Urban,formerly smoked,34.4,0,0,73.73
+75fca39619796228e6b3f3ab2cc0ebab,46.0,Female,Yes,Govt_job,Rural,Unknown,22.7,0,0,76.43
+45d77b8a40a2dcc87d0b55ea78dfa4f8,45.0,Female,Yes,Govt_job,Urban,formerly smoked,32.0,0,0,85.64
+9fce355be08993f60c48e35a69b300ce,38.0,Male,Yes,Private,Rural,never smoked,37.4,0,0,73.76
+4d9687c66adadc63934f5102bf079d74,37.0,Male,Yes,Self-employed,Urban,formerly smoked,31.9,0,0,160.0
+29ac064fb5188ace5235ea15f52d8377,25.0,Female,No,Private,Rural,never smoked,22.6,0,0,67.73
+94244e6261dcec35d39f4a6a34d9a693,33.0,Female,Yes,Private,Rural,smokes,46.5,0,0,71.16
+c5ee1592015c9551be876d74c0c15573,69.0,Male,Yes,Private,Rural,Unknown,29.2,0,1,80.43
+d03a647090c575c440e602656be07fc9,78.0,Male,Yes,Private,Rural,formerly smoked,21.2,0,0,83.2
+0a894996400799d89096a3a30b4b3dfd,70.0,Male,Yes,Self-employed,Rural,Unknown,24.3,0,0,193.88
+f7bc62a37656d71fe8a18d363690db7f,2.0,Male,No,children,Urban,Unknown,17.2,0,0,89.32
+5a518783270523848f247fb126ac22fa,35.0,Female,Yes,Self-employed,Urban,never smoked,26.1,0,0,65.33
+8ef93f7f477aa4674324b551ee68529f,8.0,Male,No,children,Rural,Unknown,28.5,0,0,115.54
+099b94a342e4f87f85779e13b83d412d,47.0,Male,Yes,Private,Rural,smokes,33.2,0,0,57.76
+98c40c5be49f74f8d4370da7c54c0a08,7.0,Female,No,children,Urban,Unknown,20.8,0,0,61.42
+1b8df7db8a335c9096e43973615601d8,75.0,Female,Yes,Private,Urban,Unknown,20.8,1,0,183.0
+d61d3737ee9ce1dc4acc0ca5f427eb4b,44.0,Female,Yes,Private,Rural,never smoked,25.0,0,0,98.3
+1d455bed13e15d6df649be5122537bf8,76.0,Female,Yes,Self-employed,Urban,never smoked,37.6,0,0,193.61
+8709c68806a55ca2b12db80514b8e3c8,76.0,Female,Yes,Private,Rural,Unknown,22.8,0,0,113.68
+c4a5846ea90782929bf365eeec1eaa6d,45.0,Female,Yes,Private,Urban,Unknown,34.3,0,0,78.91
+6106c564e568969d698ddd9c43632195,60.0,Male,Yes,Govt_job,Rural,never smoked,29.7,0,0,203.27
+412758d043dd247bddea07c7ec558c31,33.0,Female,Yes,Private,Urban,formerly smoked,23.2,0,0,84.48
+d17367b08356ccbdba2a5485b374c341,55.0,Male,Yes,Self-employed,Rural,smokes,28.0,0,0,73.57
+a53b9972c1c68ce19a65dbfc61d6e87d,73.0,Female,Yes,Self-employed,Rural,never smoked,35.6,1,0,124.78
+8c353766f237a7a315fb686066b71f20,32.0,Female,Yes,Private,Rural,never smoked,26.5,0,0,71.8
+597a335cf6a10ec4f1861d6397a2fcdf,30.0,Female,Yes,Govt_job,Urban,never smoked,34.0,0,0,113.85
+7dcd340d84f762eba80aa538b0c527f7,3.0,Female,No,children,Urban,Unknown,,0,0,79.63
+e66d9d4464a2f331f02390f25be3b463,53.0,Female,Yes,Govt_job,Urban,never smoked,41.5,0,0,64.17
+a0f13bc8e2cd7a8e6c1662aa2bb317e9,64.0,Female,Yes,Private,Urban,formerly smoked,19.3,0,0,95.87
+ebb02d0a1142fcf16997153797373e4c,61.0,Female,Yes,Private,Urban,never smoked,19.1,0,0,108.18
+da8384d2d70f9196edf2037c2fb2e93a,20.0,Male,No,Private,Urban,Unknown,21.4,0,0,57.51
+bafbd1e438dcf6c434eb0c048ec05865,22.0,Female,No,Private,Urban,smokes,20.5,0,0,66.29
+7a8a53c680deb1b715a7dce9c0f75de0,82.0,Female,No,Private,Rural,never smoked,22.9,1,0,61.47
+64a4250dded75fcc7ac237f910e8a54e,40.0,Female,Yes,Private,Urban,never smoked,23.6,0,0,93.97
+6a4b27443f2c662d6e8401503d8b15e1,36.0,Female,Yes,Self-employed,Urban,never smoked,24.4,0,0,202.06
+987d2f8de201e03eaf666747dafbc659,51.0,Female,Yes,Govt_job,Urban,never smoked,22.7,0,0,127.2
+f240b62bd890bb6ca8be7fcb6de82775,40.0,Female,Yes,Private,Rural,smokes,32.0,0,0,83.3
+201ecef3255bae210a1b2c0ae4a21c7a,0.56,Male,No,children,Rural,Unknown,20.1,0,0,127.23
+8efe4ff08d6f51db0f7179fbef12f2f1,74.0,Female,No,Self-employed,Urban,Unknown,39.2,0,0,89.52
+31d45a741449781faf6d87f8bf42df9a,17.0,Female,No,Private,Urban,never smoked,41.1,0,0,68.86
+f24619a7d570e5707d22c2f276608cd7,82.0,Male,Yes,Self-employed,Rural,never smoked,28.3,1,0,71.97
+287f4e7c4ba9d6785bd9e8120f388408,62.0,Male,Yes,Self-employed,Urban,Unknown,36.1,0,0,130.56
+333cb763facc6ce398ff83845f224d62,58.0,Female,Yes,Private,Urban,never smoked,39.5,1,0,194.53
+0a3cb8d6a1d544b17d920ff2d36b8c18,26.0,Female,No,Private,Rural,never smoked,29.0,0,0,58.55
+45050a298f1b880fcadb9085073c6b3f,81.0,Female,Yes,Private,Rural,never smoked,28.1,1,1,59.28
+52258718eca3c36481d414d5a8246aa0,62.0,Female,Yes,Self-employed,Rural,never smoked,44.6,0,0,213.92
+a36d22467b9c3af222b5e231e3b23791,65.0,Male,Yes,Private,Rural,Unknown,29.6,1,0,79.17
+0981a060af516a1cb54f2f9a1ed5473e,56.0,Male,Yes,Private,Urban,formerly smoked,43.6,0,0,197.1
+cd7d8dd9b2914d0c899f8abe2873c37d,78.0,Male,Yes,Govt_job,Urban,formerly smoked,27.6,0,0,143.47
+b09007d46d54f6bb4166f7d582a3f5d9,22.0,Female,Yes,Private,Rural,never smoked,31.1,0,0,105.22
+5c22590152f4f53f3c05cf7cc6aa0b6b,23.0,Female,No,Private,Rural,Unknown,17.1,0,0,92.26
+01bbd8f95cd042e965e53b0a85354bd3,67.0,Male,Yes,Govt_job,Urban,smokes,35.0,0,0,66.67
+7ac09a39f051ff62eefbafd363b1bbb3,39.0,Male,Yes,Self-employed,Urban,never smoked,28.7,1,0,71.66
+2ca586bb2adf43e68fb77b916b0fc7db,45.0,Female,Yes,Govt_job,Urban,smokes,41.8,0,0,82.02
+b618c3210e934362ac261db280128c22,29.0,Female,No,Private,Urban,never smoked,27.6,0,0,71.89
+b900a5f2bb1f01b0351c8c30e49a2b86,80.0,Female,Yes,Private,Urban,formerly smoked,26.7,0,0,73.89
+aadeccf20333fe8cb7946318389d4555,34.0,Female,Yes,Self-employed,Urban,Unknown,,1,0,100.61
+da726968b57ca3354d2699ee3060ff48,65.0,Male,Yes,Private,Urban,never smoked,36.6,0,0,58.87
+d9ee56d47bdcadd39f2ec0d61f571cf3,0.4,Male,No,children,Urban,Unknown,14.3,0,0,109.56
+ed2778e8d8cc95fc48592e71a3341841,57.0,Female,Yes,Private,Urban,never smoked,36.6,0,0,217.4
+a84f3cf38c89ac0034cb3f3ea36ee6fe,71.0,Male,Yes,Self-employed,Rural,Unknown,,1,0,87.8
+6081594975a764c8e3a691fa2b3a321d,81.0,Male,Yes,Private,Rural,never smoked,22.2,0,0,92.96
+ac6ea9609a3862608856837660899802,25.0,Male,Yes,Private,Rural,never smoked,27.7,0,0,119.96
+6b361c727e4fd68352c54ea9c46b36e6,2.0,Male,No,children,Rural,Unknown,16.6,0,0,65.67
+70f250e2d762fbde8a2e70eabf6eb953,30.0,Male,Yes,Private,Urban,Unknown,21.1,0,0,96.84
+59e303779456f354cb4c87447155d612,29.0,Female,No,Private,Urban,smokes,22.5,0,0,73.63
+e355819c0931a90b594aeb8d6a73587f,37.0,Female,Yes,Private,Urban,Unknown,24.1,0,0,60.05
+ba3a3ae550894c78c7ff006c8ce28a99,78.0,Female,Yes,Self-employed,Rural,never smoked,30.8,0,0,109.47
+1908ffe453edcfd095aa76d8fd46e80f,26.0,Male,Yes,Private,Rural,smokes,30.7,0,0,95.57
+76b0dd359c2632d245e3c6a21570bfa4,15.0,Female,No,Private,Rural,never smoked,40.5,0,0,82.19
+8c7228219b23699f256dea45ba5cdf13,80.0,Female,Yes,Private,Rural,never smoked,26.7,0,0,71.88
+41e56f14c6c580912b67c91133643a54,20.0,Female,Yes,Private,Urban,smokes,26.3,0,0,77.96
+8339b9481dc9b7d4e023f7dc5e8c9bf2,40.0,Female,Yes,Private,Rural,never smoked,37.5,0,0,131.99
+99f5a12273c3338adff0f524f2bcae03,72.0,Male,Yes,Self-employed,Urban,smokes,25.4,0,0,123.08
+f44ea3289d6cc6b6870fbd84a0f1b2d9,59.0,Female,Yes,Private,Rural,Unknown,28.8,0,0,134.24
+e1a6f11e66950f6f53510c764e442016,32.0,Female,Yes,Private,Rural,never smoked,47.5,0,0,66.3
+9407c90c49bf04f8b59677647ef56522,22.0,Female,No,Private,Rural,smokes,27.9,0,0,74.99
+1b84c4cee2b8b3d823b30e2d604b1878,67.0,Female,Yes,Self-employed,Rural,Unknown,28.1,0,0,90.35
+b90b1b71d03d17c8af3e78947fa87a0a,51.0,Male,Yes,Govt_job,Urban,smokes,34.7,0,0,92.32
+0801b20e08c3242125d512808cd74302,31.0,Female,Yes,Private,Rural,never smoked,35.6,0,0,76.26
+2f9fe1e3d5d2749628ccbd9e7d3f377b,15.0,Male,No,Never_worked,Rural,Unknown,28.4,0,0,79.59
+88abde0f12e557bfdb6059e842f63e57,53.0,Male,Yes,Self-employed,Urban,formerly smoked,26.9,0,0,103.37
+594ca7adb3277c51a998252e2d4c906e,4.0,Female,No,children,Rural,Unknown,16.6,0,0,93.25
+4e997cbe9d93884f8ce686aa0094bf58,78.0,Female,Yes,Private,Urban,never smoked,26.7,0,0,79.94
+9e18f95f1c259dbcc2388008c47d5d25,71.0,Male,Yes,Self-employed,Rural,formerly smoked,29.2,0,0,56.43
+acd3f7983ba9e0f8b64dd9de391e8b4d,56.0,Female,Yes,Private,Rural,smokes,34.1,1,0,97.37
+2ac82abfbbba61cc903d25f55ed38aa8,1.32,Female,No,children,Urban,Unknown,18.7,0,0,81.05
+a06983189f8b8bf90ab0107d878d298d,53.0,Female,No,Private,Urban,never smoked,29.6,0,0,129.43
+6ef1173b096aa200158bfbc8af3ae8e3,18.0,Male,No,Govt_job,Urban,never smoked,27.0,0,0,106.54
+3cbfb2330b21840b385a45c958602663,45.0,Female,Yes,Private,Rural,formerly smoked,21.6,0,0,89.21
+f37baa052ef9fff7d5671e655907c6f2,71.0,Female,Yes,Private,Urban,never smoked,31.6,1,0,194.62
+36c8d2b3e0a29251e74fab7bfe5931ab,45.0,Male,Yes,Self-employed,Rural,formerly smoked,37.2,1,0,74.28
+b1e27f3041bb8fa1ecdbe9e9d348cba2,56.0,Female,Yes,Private,Rural,smokes,30.4,0,0,200.98
+498caf50e8859f04fb9cf7a4ae05a83a,16.0,Male,No,Private,Rural,never smoked,30.6,0,0,97.23
+de39ebd3184a468cd1659f2d8a6717ba,10.0,Female,No,children,Urban,formerly smoked,18.6,0,0,82.59
+f5e536083a438cec5b64a4954abc17f1,55.0,Female,Yes,Private,Rural,formerly smoked,26.2,0,0,109.59
+152c82f16b0a4fe70634ef1d30b1fff1,79.0,Male,No,Self-employed,Urban,Unknown,31.0,0,0,128.72
+5bcd64be156de0ead98f17c3e8738885,46.0,Male,Yes,Govt_job,Rural,formerly smoked,38.9,0,0,102.27
+b46b855b9bcfd8b80b24ca033b10519e,14.0,Female,No,Self-employed,Urban,Unknown,34.0,0,0,124.39
+69e0b69f098c397a14fabf7e005ce784,59.0,Female,Yes,Self-employed,Urban,formerly smoked,28.7,0,0,90.04
+e97399278d24e6bbf3a2d5e9c8d34262,56.0,Female,Yes,Private,Urban,smokes,,0,0,102.97
+536c07a4cf964114e715afb4d02e2347,37.0,Female,Yes,Private,Rural,formerly smoked,48.2,0,0,75.18
+a9a79c2b9f853a2e7aeef51a119518d0,13.0,Male,No,children,Urban,never smoked,16.9,0,0,58.86
+192cf7dcc6bcfd4f4e58857a929baee5,43.0,Male,Yes,Private,Urban,formerly smoked,30.5,0,0,92.71
+0f0c5117cdf71e86cd21ee67f05f20c2,47.0,Female,Yes,Self-employed,Urban,never smoked,20.6,0,0,73.0
+b820fc868475ef544228c3c8fa6a685e,32.0,Male,No,Private,Rural,smokes,,0,0,95.58
+cfc7c6a21387750bd3f2b14f8242d548,67.0,Female,Yes,Private,Urban,Unknown,31.8,0,0,100.16
+932db12621be9343f71934895bcd4b06,18.0,Female,No,Govt_job,Urban,never smoked,16.0,0,0,90.92
+e1a4fc0b2cd0098b6cd019133941697a,45.0,Female,Yes,Private,Urban,never smoked,21.1,0,0,91.04
+ecbd4df986ebf85c8a2873572e804803,27.0,Female,Yes,Private,Urban,smokes,39.8,0,0,80.57
+fe68c1592abb7b99132c2494430a53c4,47.0,Female,Yes,Private,Urban,never smoked,23.9,0,0,122.43
+79f53927eb6603ae6c54b55ff7a39803,26.0,Female,No,Private,Urban,smokes,26.0,0,0,81.94
+f900c211bceaaa9016dda3f017176e7a,33.0,Female,Yes,Self-employed,Rural,never smoked,43.0,0,0,112.94
+97550c51d72fe06f777c5a41404c940c,54.0,Male,Yes,Private,Urban,formerly smoked,28.0,1,0,220.26
+f50a9034ccb0736f058d224a7e037227,17.0,Female,No,Govt_job,Rural,never smoked,23.3,0,0,115.93
+438f54f8c5a3a6f58ce5a69d37294fe9,60.0,Male,Yes,Private,Rural,never smoked,37.3,0,0,153.48
+96db8033264a2ec13e8d5d9526fe15a3,62.0,Female,Yes,Private,Urban,never smoked,23.4,0,0,101.19
+b05851605ad0a7613af514cd321a63e3,72.0,Female,Yes,Self-employed,Rural,formerly smoked,34.7,0,0,104.04
+a570ce8ae1bfa0a0956b71327be50ce3,56.0,Male,Yes,Private,Rural,never smoked,34.5,0,0,82.44
+8678915eec5bccbba43c3ef53ff19b46,34.0,Female,Yes,Private,Rural,never smoked,45.4,0,0,231.5
+c3205dec2f92509c7370d3509784d3cf,58.0,Male,Yes,Private,Urban,never smoked,29.0,0,0,199.42
+f061b24fb0d747c8b66f3c03c090e607,54.0,Male,Yes,Private,Urban,formerly smoked,21.7,0,0,85.81
+f4666b1c34893ee557dccbfe3382e965,32.0,Female,No,Private,Urban,smokes,23.0,0,0,74.2
+328f6ee7ae1b8287d04e116bdc9b865c,13.0,Male,No,Private,Urban,Unknown,24.0,0,0,141.09
+4722176876d0b766e2ce8328108416b9,71.0,Female,Yes,Private,Urban,never smoked,27.4,0,0,240.81
+9369ea6c02a23aea5374a5ef8af4aa8d,72.0,Female,No,Self-employed,Rural,formerly smoked,23.4,0,1,124.38
+dbf25bb9667ad45905359f401d0ffb60,56.0,Male,Yes,Private,Urban,Unknown,22.1,0,0,84.3
+5ddaee61d31151041f56bc256e93d1eb,1.24,Male,No,children,Urban,Unknown,19.3,0,0,109.97
+dbf490c1f56975518c48bb8756538684,0.48,Female,No,children,Rural,Unknown,17.4,0,0,118.75
+3d7be5aea8e8c8c0224542aec2a732fa,50.0,Female,No,Self-employed,Urban,Unknown,34.5,0,0,77.67
+9595b8ba8c1ca41c0c83db5af78a5bc7,12.0,Female,No,children,Urban,never smoked,29.9,0,0,85.04
+efe7beaa44d6e14c30432d43b2522ba2,38.0,Male,Yes,Private,Urban,never smoked,30.2,0,0,88.97
+7bd9c16053db50298bbdeb72b0252c0d,0.56,Female,No,children,Urban,Unknown,18.3,0,0,80.92
+97d87be48d41da066efad472da25e1f3,12.0,Female,No,children,Urban,never smoked,21.3,0,0,58.14
+9684bb9ec9d685632ee47174ed6f2dd5,44.0,Male,Yes,Govt_job,Urban,never smoked,35.4,0,0,101.66
+6557f189e081a505c3cf7ccb1aa50f88,73.0,Male,Yes,Govt_job,Rural,Unknown,28.7,0,0,76.45
+9839d8acd505cc08e65789abfe118477,44.0,Male,Yes,Private,Urban,smokes,24.8,0,0,65.41
+93e687f26147261192bd29531e7ee675,70.0,Female,Yes,Private,Urban,formerly smoked,28.9,0,0,90.49
+35ce0208261086fe26f722985832ea46,29.0,Male,Yes,Self-employed,Urban,Unknown,33.2,0,0,118.7
+ccd986d2de4c75133c049e26005b3dbc,2.0,Female,No,children,Rural,Unknown,16.4,0,0,109.56
+0e1422ea79781ee046484893ce0010c4,39.0,Male,Yes,Private,Rural,Unknown,29.8,0,0,109.19
+84f11ceb99dafe222dde3767eb4fe663,66.0,Female,Yes,Govt_job,Urban,never smoked,23.1,0,0,92.04
+b6c5d9120ca44f50bd9da905c689bae7,68.0,Female,Yes,Self-employed,Rural,never smoked,20.2,0,0,80.63
+fba4ba5478461c772ca0972805ee3f36,2.0,Female,No,children,Rural,Unknown,19.7,0,0,65.96
+1e273c3efad61af89a37f8403b84efd4,49.0,Female,Yes,Private,Urban,formerly smoked,35.9,0,0,114.5
+a2db3a7829a3d16e3735781ced544816,27.0,Female,Yes,Private,Urban,smokes,25.7,0,0,161.57
+8ccac9113628ef98fb521ea5ca319a70,28.0,Female,Yes,Private,Rural,never smoked,28.9,0,0,95.52
+ddef33a1e82f0e79190e9b09bd1797eb,72.0,Male,Yes,Self-employed,Rural,smokes,,0,0,72.09
+928aba88f19ec12d7ef6b85c7082e7d1,21.0,Male,No,Private,Rural,smokes,36.6,0,0,88.29
+f7cade80b7cc92b991cf4d2806d6bd78,68.0,Female,Yes,Private,Rural,Unknown,39.3,0,0,211.06
+54ca3e5a2cebd8681900aa488903e0ad,81.0,Female,Yes,Self-employed,Urban,Unknown,23.0,0,0,63.65
+8f1132db5edd938b22f6167b7f67d82b,1.72,Male,No,children,Urban,Unknown,22.5,0,0,90.46
+6e5b3badbdb52b39d7fcffbea7cdc682,82.0,Male,Yes,Private,Urban,smokes,35.4,0,0,144.2
+4a5cfa9281924139db466a8a19291aff,14.0,Female,No,Private,Rural,never smoked,22.9,0,0,233.71
+bcc2bdb799f873f02080ae277f291da1,3.0,Male,No,children,Urban,Unknown,17.6,0,0,107.52
+2c40de1f33e9ccb8dffd2f3cc6a0c903,42.0,Male,No,Govt_job,Rural,never smoked,52.8,0,0,59.83
+e9da1cc127b8805c92c8525846a02420,44.0,Female,Yes,Private,Rural,never smoked,38.2,0,0,222.29
+c4bfbf68f5d8d0f8b9a0752ca08ea01d,12.0,Male,No,children,Urban,Unknown,23.6,0,0,83.95
+3bab61d4e908e8a49692fe017c65ec9b,64.0,Male,Yes,Govt_job,Urban,formerly smoked,34.6,0,0,239.64
+d47619b92cebc6ebfa07969ab5370ae6,45.0,Female,Yes,Private,Urban,never smoked,,0,0,202.66
+c645af1622ea09472ecda1b012d444e8,15.0,Male,No,children,Urban,Unknown,18.1,0,0,95.86
+0359f3653b20ee2edfa3cc67ecefc35a,61.0,Male,No,Private,Rural,never smoked,29.5,0,0,140.07
+3f5d4760ffc7f8a1da5fc490022a9f58,76.0,Male,Yes,Private,Rural,never smoked,33.6,1,0,243.58
+7d2cff49843e04f3d95751a1429ae3fb,37.0,Female,Yes,Private,Urban,never smoked,29.1,0,0,217.11
+831b910669b007efb3eee43f4973a2ea,51.0,Female,Yes,Self-employed,Urban,formerly smoked,44.7,0,0,143.15
+0ff3d438a8078153fd2dbd287816eec7,57.0,Female,Yes,Private,Rural,never smoked,32.8,0,0,64.37
+15c08959e5e7b1930cb81c503058b4c4,65.0,Female,No,Self-employed,Rural,never smoked,33.1,0,0,86.33
+03300a14fb9934cc5c613e26bdfbaab8,13.0,Female,No,children,Rural,Unknown,19.5,0,0,63.26
+06cdfee73fbb16ea0a84a5a59735c846,41.0,Female,Yes,Govt_job,Urban,smokes,24.7,0,0,91.93
+94bf09ae05420a2cad375b2f167ad3e8,4.0,Female,No,children,Urban,Unknown,14.0,0,0,94.27
+8e15aa5c10104b613c66ba139e287976,42.0,Male,Yes,Private,Rural,smokes,26.1,0,0,123.15
+871c97e4e4732049f0e08079646b1f27,11.0,Female,No,children,Rural,Unknown,15.9,0,0,123.04
+e0fa992724daa8bfb261c1dfccc5199c,62.0,Female,Yes,Govt_job,Urban,smokes,23.4,0,0,110.84
+c3ef2fab506abe00243a0b8c9bb4868f,63.0,Female,Yes,Self-employed,Urban,never smoked,26.6,0,0,69.46
+b20bb95ab626d93fd976af958fbc61ba,79.0,Female,Yes,Private,Urban,formerly smoked,22.1,0,1,68.4
+3d6e0d04427db110b6e8106f2cc4f25c,12.0,Male,No,children,Rural,Unknown,28.9,0,0,90.42
+ae5b27338e5d09a6fbb71afec41f0334,31.0,Male,Yes,Private,Urban,never smoked,25.8,0,0,71.31
+eba12c8977cdf8a9b7351c33f03d205c,49.0,Female,Yes,Private,Urban,never smoked,29.9,0,0,60.91
+3842cc134c8a40d477619af40a1b9813,46.0,Male,Yes,Private,Urban,Unknown,40.9,0,0,103.62
+68b550d21bf148b92cc007171305afb1,23.0,Female,Yes,Private,Rural,formerly smoked,21.6,0,0,91.97
+ce546aedbd70c4d675551ad81bbe29fe,38.0,Female,Yes,Private,Rural,never smoked,25.1,0,0,107.78
+d0aaf39f31aed7d7bec1137e15d335b6,37.0,Female,Yes,Private,Rural,Unknown,48.9,0,0,94.77
+c9d0389bac9d234bd66c88ef7be066d0,54.0,Male,Yes,Govt_job,Urban,smokes,37.7,0,0,72.96
+ede3c50dea25ba965ec7192eb15f2f70,65.0,Male,Yes,Private,Urban,smokes,41.2,0,0,96.81
+9c652755d0405ed9e0455803b3a8b824,80.0,Female,Yes,Self-employed,Urban,never smoked,25.4,0,0,223.26
+54b2b21af94108d83c2a909d5b0a6a50,78.0,Female,Yes,Private,Rural,never smoked,32.3,0,0,235.63
+a6eab5560609e8a2db70c40fd7499791,66.0,Female,Yes,Govt_job,Rural,Unknown,37.0,0,1,76.11
+f2cb5353055e874920f894f3c3802b95,7.0,Male,No,children,Urban,Unknown,17.7,0,0,152.81
+50ac4b2d6257c591a057a922533f77d5,31.0,Female,No,Self-employed,Rural,never smoked,27.3,0,0,75.27
+c092e5c10eb9d5469e87a0df04c26314,51.0,Female,Yes,Self-employed,Urban,never smoked,28.4,0,0,89.74
+2e7cf629b7196ebe926e93fb3c02567a,66.0,Female,Yes,Self-employed,Urban,never smoked,28.3,0,0,142.12
+339cb03802f80be0199b4afa835f77de,61.0,Male,Yes,Private,Rural,never smoked,25.4,0,0,89.75
+3de78319f256b3060f1b8e51fd0fe727,10.0,Male,No,children,Urban,Unknown,14.3,0,0,87.09
+35d0c0e834682f3a9f85f75e3ac3695f,48.0,Female,No,Private,Rural,smokes,25.1,0,1,101.89
+c0a4b210e5dcf7296e8505b2a7f9629a,49.0,Female,Yes,Private,Urban,formerly smoked,24.8,0,0,67.68
+155dd30defc13bf436cfbb1b274b6ed2,69.0,Female,Yes,Self-employed,Urban,Unknown,38.1,0,0,67.55
+b146d051b578201f1e3419f8850a8a43,69.0,Male,Yes,Private,Rural,smokes,,1,0,107.11
+3cbb08ef13c03e747660912d52ca58aa,36.0,Male,Yes,Private,Rural,never smoked,25.1,0,0,106.73
+86a9d09856a0f9f7a762ddce0af753ce,32.0,Male,Yes,Private,Urban,Unknown,31.0,0,0,78.3
+6646b06b90bd13dabc11ddba01270d23,65.0,Female,Yes,Private,Urban,never smoked,27.4,0,0,104.12
+2ac1b0007c47d872b3298cf2c02e2926,40.0,Female,No,Private,Rural,smokes,23.3,0,0,70.45
+0c7428cf58f0f3904634fab419d326e2,26.0,Male,No,Private,Urban,smokes,35.6,0,0,85.92
+7d27e5960861702b7374d981449e2649,66.0,Female,Yes,Govt_job,Rural,never smoked,30.0,0,0,85.52
+de785fbd9c75be03fbd0dcc93a638fae,61.0,Male,Yes,Self-employed,Urban,never smoked,34.9,0,0,73.24
+7d214dbbb7364420941d28a3e51a11e4,50.0,Female,Yes,Private,Rural,smokes,25.4,0,0,65.25
+7ca165fd0c85aced8969bf90a6c8b0d5,36.0,Female,Yes,Self-employed,Urban,Unknown,24.9,0,0,77.92
+be4b74cc626578c5fbed9a26c481d8cb,14.0,Female,No,children,Rural,Unknown,20.5,0,0,72.36
+8aa7db6b925810b453eb63028f4f770a,44.0,Female,Yes,Private,Rural,never smoked,26.0,0,0,97.27
+21dfc13281c485bd21bf5f5539ae01d0,25.0,Female,No,Private,Rural,smokes,23.8,0,0,118.85
+4ca987e02bbbf558114f8c0633e2c7ac,2.0,Male,No,children,Urban,Unknown,17.4,0,0,93.88
+b19eed7dd2015d5bb3c2f5b82a4f431c,36.0,Female,Yes,Private,Urban,smokes,34.7,0,0,87.88
+936824c0191953647ec609b4f49bc964,30.0,Male,Yes,Self-employed,Rural,smokes,32.3,0,0,95.01
+1da6e2be53bce2f116a687ac2a12d715,20.0,Female,No,Private,Urban,Unknown,16.6,0,0,73.83
+152c97a9bb6f2ababc2c73a46cfef7a3,49.0,Female,Yes,Govt_job,Rural,never smoked,27.7,0,0,89.61
+009c33af49f6e5b9b57d31967e7ee46e,37.0,Female,Yes,Private,Rural,Unknown,26.4,0,0,101.07
+7e5c6adb4152e8d402e5dba26664fa32,44.0,Male,Yes,Private,Rural,smokes,28.4,0,0,94.71
+6b479a29fe192bbdf1f628fb593a617e,20.0,Female,Yes,Private,Urban,never smoked,41.2,0,0,79.08
+a211ea6965ec4a24fa63078baa56a8d4,23.0,Male,No,Private,Urban,Unknown,24.6,0,0,86.7
+fd9dd764a6f1d73f4340d570804eacc4,44.0,Female,No,Private,Urban,never smoked,30.5,0,0,76.3
+ac63ecc6419544f4db7d546161587052,38.0,Male,Yes,Govt_job,Rural,formerly smoked,31.3,0,0,135.74
+b57a35f9dda9f73ab2c04e1a6963c932,62.0,Female,Yes,Private,Rural,never smoked,24.5,0,0,83.85
+9c7591bd1904ef3d244684c3a8655fae,39.0,Female,Yes,Private,Urban,smokes,35.5,0,0,254.95
+4d410063822cd9be28f86701c0bc3a31,41.0,Male,Yes,Private,Urban,never smoked,31.6,0,0,99.8
+02f2fb6380f4ef5e1b81c93ff9854942,36.0,Male,Yes,Govt_job,Urban,formerly smoked,32.2,0,0,65.87
+aab49a3daebf72a463854829ec7d3611,61.0,Male,Yes,Private,Rural,Unknown,33.2,0,0,55.26
+322e026d065a8574acf3ea16b0bec415,49.0,Female,Yes,Private,Rural,never smoked,39.4,1,0,65.34
+20c86a628232a67e7bd46f76fba7ce12,53.0,Male,Yes,Private,Urban,formerly smoked,30.1,0,1,91.57
+774b0e07753b0b94d1a1c5b0543b5fe1,8.0,Male,No,children,Urban,Unknown,22.4,0,0,111.02
+6e96be832cf8bc6b35a956e8fb66c76a,52.0,Female,Yes,Self-employed,Rural,never smoked,,1,0,104.45
+bc633e62b0095c6ed17684297ee49db4,25.0,Female,No,Private,Rural,Unknown,43.1,0,0,81.54
+f63f7107398c54c17b5d14eadfa76842,79.0,Female,Yes,Private,Rural,never smoked,24.5,0,1,88.51
+889a669f8711879aed110525c185ff3b,8.0,Male,No,children,Urban,Unknown,18.8,0,0,89.57
+63cdcaf145863d57408d00bafbe9eee9,79.0,Male,Yes,Self-employed,Urban,never smoked,35.0,0,0,113.41
+d8385c155d3bd3e645aecde003c1930c,16.0,Female,No,Never_worked,Rural,never smoked,20.4,0,0,68.27
+97fa70856aa8095cb1a6c7343a84bd85,57.0,Male,Yes,Govt_job,Urban,formerly smoked,33.1,0,0,75.53
+5831e536b6f7828e911b47c0f2525161,32.0,Female,Yes,Private,Rural,smokes,46.1,0,0,85.62
+4eefea4fc77f6a79afe6a2e4b0898d84,47.0,Male,Yes,Govt_job,Rural,never smoked,23.5,0,0,74.8
+e2d05fe61187d1bc4928a253d09f087e,68.0,Female,Yes,Private,Urban,formerly smoked,40.5,1,1,247.51
+8f6a418c8c78d211e6fc70c05546f422,80.0,Female,Yes,Self-employed,Urban,never smoked,22.8,0,1,79.09
+250413d2982f1f83aa62a3a323cd2a87,79.0,Female,Yes,Self-employed,Rural,never smoked,,1,0,92.43
+1aa559737cd37f919f3fb11a7b5b1c69,1.88,Female,No,children,Rural,Unknown,16.7,0,0,97.26
+5b3a93d103a66345e5d404c61c5b5081,50.0,Male,Yes,Self-employed,Urban,never smoked,43.6,0,0,192.16
+333494fc52dd73abee70515d63ab2d13,24.0,Male,No,Private,Urban,smokes,20.1,0,0,88.38
+efd0919de22a21bc3c9ee3e4cefb97d6,78.0,Female,Yes,Self-employed,Rural,never smoked,26.4,0,0,84.49
+0a17a8c84fd8debe87250d1a0e44c7e9,62.0,Female,Yes,Govt_job,Rural,Unknown,42.0,0,0,98.14
+fa3ac9e7b5e2ed174bc1104f1c9ec9b6,5.0,Male,No,children,Rural,Unknown,20.5,0,0,99.07
+8b8c1cd75f5a8486e42b727f530cb512,20.0,Male,No,Private,Urban,never smoked,19.4,0,0,78.97
+1959eb9d5a0f7ebc58ebde81d5df400d,40.0,Male,No,Private,Urban,formerly smoked,,0,0,88.27
+1702396841a329a574631377e15a65d2,42.0,Female,Yes,Govt_job,Rural,formerly smoked,37.2,0,0,112.98
+ff64213c80404744c7568eaa427bb28f,79.0,Female,Yes,Govt_job,Rural,formerly smoked,34.8,0,0,79.16
+0e64a7b00c83e3d22ce6b3acf2c582b6,5.0,Female,No,children,Urban,Unknown,16.6,0,0,82.56
+f5b9430e2561a2e2233863b3a844eb66,75.0,Female,Yes,Self-employed,Urban,formerly smoked,27.5,0,0,87.69
+b16539e3ff2250a2bf164a92b030633c,67.0,Male,Yes,Private,Urban,never smoked,28.9,0,0,97.34
+4d0ac884f6fdb0c44f281653697aa2cc,10.0,Female,No,children,Urban,Unknown,23.4,0,0,93.64
+501e330f94781110f64e524d670fc5a4,78.0,Female,Yes,Private,Urban,never smoked,26.1,0,0,243.5
+dfcfbb196720bb3febac626b8b9d082d,13.0,Female,No,Private,Rural,never smoked,16.6,0,0,172.27
+d5b19df72da0d6df2f61ab0502e849d3,34.0,Female,No,Private,Rural,smokes,43.6,0,0,103.43
+4af64531eeb6099df6c2643b89b2a1bc,73.0,Male,Yes,Govt_job,Rural,never smoked,28.6,0,1,219.73
+789a5820424438eedd08715739f94f84,71.0,Male,Yes,Self-employed,Rural,smokes,32.4,0,1,207.32
+48e35255f0afffac90a6f0e3448254c8,46.0,Male,Yes,Private,Urban,formerly smoked,24.7,0,0,58.42
+072f76c18f8d7d526bd0d58166eb82ae,64.0,Male,Yes,Private,Rural,Unknown,34.5,1,0,196.26
+d4b40e6113d6268363e7a93d4cbe6875,71.0,Male,Yes,Private,Urban,formerly smoked,27.2,0,0,102.87
+d7ccb841e1c86abdc1d1d6e6bacb6f17,2.0,Male,No,children,Urban,Unknown,20.1,0,0,76.25
+ee695df9a7a6c8f0aa0d0bd622f7d6a0,42.0,Male,Yes,Self-employed,Rural,Unknown,41.2,1,0,77.24
+d18dad6d6c0dd9aff9e3dd729fd0fe81,61.0,Female,Yes,Private,Rural,never smoked,33.4,0,0,123.36
+90a85209de63519f0c04728a1bdb9313,36.0,Female,Yes,Govt_job,Rural,smokes,33.1,0,0,82.47
+05d446b21e401cdc44ea5ddb67ff0031,17.0,Female,No,Never_worked,Rural,never smoked,31.1,0,0,88.57
+29e20874259a3bf4d949349d87fa2d6e,76.0,Female,Yes,Govt_job,Rural,formerly smoked,,0,0,62.57
+e4921cc1aa0f6348eacec86e7c6c411e,7.0,Male,No,children,Urban,Unknown,15.9,0,0,56.32
+2d8a7e57e629a238f50961910df61fe0,60.0,Male,Yes,Self-employed,Urban,formerly smoked,40.0,0,0,227.23
+3c1906bb3a2d55ca4a6bfc8522940f01,50.0,Female,Yes,Self-employed,Rural,never smoked,30.9,1,0,167.41
+f01d4f5f8540c202397a8e6089e45119,2.0,Female,No,children,Rural,Unknown,14.8,0,0,76.52
+770c0e7e2af0db73409aa2431aa8f33e,55.0,Female,Yes,Private,Rural,formerly smoked,39.7,0,0,76.7
+4a66ba27e2e2a6b9420c1011579a5f24,48.0,Female,Yes,Govt_job,Rural,Unknown,26.2,0,0,77.55
+bf0fa91cf9b6c92a742e25fbad7debd2,49.0,Female,Yes,Private,Urban,smokes,44.5,0,0,206.53
+9d1f79ec73f22bffbb5c75a0114906bf,53.0,Male,Yes,Private,Urban,never smoked,27.3,0,0,76.03
+93cac6bc681b8e6f79d40155e8c37f95,40.0,Female,No,Private,Urban,smokes,27.3,0,0,80.47
+193bfb3f286a1bca4c11f34d0d630527,30.0,Female,Yes,Private,Urban,never smoked,25.4,0,0,59.82
+3b3dc4a2b4d939198ac835a8a593bd60,57.0,Female,Yes,Private,Urban,smokes,37.3,0,0,221.89
+fe13efb3ed0c3101973404345d5ddac2,55.0,Female,Yes,Private,Rural,Unknown,27.8,0,0,63.47
+8505785391a374b0d4f3b0e05b8f42c2,37.0,Male,No,Private,Urban,smokes,24.6,0,0,90.95
+e82a71007130c199a90961842d15b339,31.0,Male,Yes,Private,Rural,smokes,25.9,0,0,77.23
+2c27a260f16ad3098393cc529f391f4a,46.0,Female,Yes,Self-employed,Rural,never smoked,21.2,0,0,85.84
+9029d6a408295eb18b01022d5dc2c3a5,21.0,Female,No,Private,Rural,Unknown,30.7,0,0,80.84
+1b018e25e6e0e454ec3178c7c30702ba,66.0,Female,Yes,Self-employed,Rural,never smoked,32.6,0,0,74.88
+8151554c7257b706ba775383d208f4cc,43.0,Male,Yes,Private,Rural,formerly smoked,27.0,0,0,62.99
+90ca36fd9dbc796cdfacb76c9f5d677f,40.0,Male,Yes,Private,Rural,Unknown,28.7,0,0,75.4
+5b80dedf31c1b00d98e7f24c45cd3c1c,28.0,Female,Yes,Private,Urban,Unknown,25.5,0,0,111.22
+211b39255232ab59ce78f2e28cd0292b,49.0,Male,Yes,Private,Rural,Unknown,32.5,0,0,78.34
+cf43d95347129f87998d6a47f995bb23,82.0,Female,Yes,Self-employed,Urban,formerly smoked,27.0,1,0,107.21
+0847428640312d7e5f0804dcb8b2cd01,66.0,Male,Yes,Self-employed,Urban,smokes,38.3,0,0,96.19
+a9dbd10526ac1d8b5786a9e991d29c3e,66.0,Female,Yes,Self-employed,Urban,formerly smoked,35.0,0,0,102.73
+e97ee2054defb209c35fe4dc94599061,54.0,Female,Yes,Private,Urban,smokes,29.5,0,0,76.04
+5843342c9fde8a11880aa20b2c3899f1,0.88,Male,No,children,Urban,Unknown,22.4,0,0,90.62
+5e3201e74613bc006dc8b2fcf8d80ff5,75.0,Male,Yes,Private,Urban,formerly smoked,27.2,1,0,234.51
+2ec6c9b2b8bd4007bf7959141ef58651,34.0,Female,Yes,Private,Urban,smokes,37.4,0,0,79.8
+450d86718b4b3697ccf2f66f3c051f56,78.0,Female,No,Self-employed,Rural,Unknown,31.4,0,0,68.35
+ae22c9a5b68c3715d9c91444facc4e70,31.0,Female,Yes,Govt_job,Urban,Unknown,32.7,0,0,81.71
+cf584308159f57263266dabb14d6bc5f,1.64,Female,No,children,Urban,Unknown,18.1,0,0,69.89
+a4f6d1f94ad05f3fc1f2ccd1715aeeff,33.0,Female,Yes,Private,Rural,never smoked,40.3,0,0,80.82
+a5a019c0fd66f0e0a910a10c8e8fc50b,64.0,Female,Yes,Private,Rural,Unknown,39.2,1,0,56.13
+10aceb7d1c0b00d00d2d4a012e44f72a,80.0,Female,Yes,Private,Urban,smokes,28.9,1,0,125.89
+25ef0d887bc7a2b30089a025618e1c62,46.0,Male,Yes,Private,Urban,never smoked,57.3,0,0,87.66
+f3ef8c702797e0afc3064ac0cbfaf8d5,46.0,Male,Yes,Govt_job,Urban,formerly smoked,33.1,1,0,85.62
+4fc4c179fdfac274861a90eb3c70aeef,66.0,Female,Yes,Private,Urban,smokes,34.9,0,0,89.7
+0942c6adb3fe9940fb93128ffbe8da8c,73.0,Male,Yes,Govt_job,Rural,never smoked,28.1,0,1,70.23
+692f4a795f36e4289fd2626f6dca152c,11.0,Male,No,children,Urban,Unknown,19.5,0,0,92.17
+945334db348ced892f4790b8b1a2cd53,40.0,Female,Yes,Self-employed,Urban,formerly smoked,24.1,0,0,106.76
+a9c389ad076f6bf8a743628484b919a3,60.0,Female,No,Private,Rural,formerly smoked,28.3,0,0,91.82
+bc6249acce910185a80f3152bd16adde,29.0,Female,Yes,Private,Urban,never smoked,24.8,0,0,118.44
+9e4f7d7b2e283f464766cb66dbd50a8e,60.0,Male,Yes,Private,Urban,Unknown,34.3,1,0,197.09
+872dd316eb8a432cbc63f141e2d68ded,33.0,Male,No,Self-employed,Rural,formerly smoked,38.8,0,0,91.53
+5c5da3a2ee0b09407fa17f0f3fb1c0d3,48.0,Female,Yes,Private,Urban,formerly smoked,53.5,0,0,57.43
+96874a5ae20067403f7daa6b787019c4,11.0,Male,No,children,Rural,Unknown,18.6,0,0,90.69
+504c296f8eb5fd521e744da4e8371f28,54.0,Male,Yes,Private,Urban,formerly smoked,29.1,0,0,111.37
+94263e205faec4311b1859acceeafe26,63.0,Female,Yes,Self-employed,Rural,Unknown,26.9,1,0,227.1
+708289aec640970becd344bbd535591a,30.0,Male,No,Private,Urban,never smoked,22.2,0,0,88.65
+b8a8fe8d922482fd4dfedf226811c995,2.0,Female,No,children,Rural,Unknown,16.0,0,0,99.75
+fa654b38bacbfa95b74861a531401004,14.0,Male,No,Private,Rural,never smoked,33.9,0,0,84.41
+16f287a4e36bf488615b5bed514f72fc,61.0,Male,Yes,Private,Rural,smokes,43.4,0,0,81.25
+998567b17f1ad7207f3a54dc7c605c74,80.0,Female,Yes,Private,Rural,Unknown,34.4,1,1,115.52
+6dbd2699e8e7ec0047de2d5d1b28a75b,80.0,Female,Yes,Private,Rural,Unknown,26.7,0,0,102.9
+320274ee8b7f2e8a82d37d07f64c0e0b,52.0,Female,Yes,Self-employed,Urban,never smoked,48.9,1,0,233.29
+8f391213fdc9a9b0e535d990943cffa7,57.0,Female,Yes,Private,Rural,Unknown,24.0,0,0,69.4
+b5bf79061d232cfe39e740c80cf8d4f1,39.0,Male,Yes,Private,Rural,Unknown,27.4,1,0,197.36
+cede2d63a7c04ebd4cb55a2228c7141a,52.0,Female,Yes,Private,Urban,Unknown,29.1,0,0,99.1
+2e61866ea98aba76b0b07e7e7728c646,51.0,Male,Yes,Govt_job,Urban,Unknown,43.1,0,0,220.49
+7298332f04ac004a0ca44cc69ecf6f6b,12.0,Female,No,children,Rural,Unknown,16.3,0,0,73.99
+7b8fac333fe4ec9b044a8a64829a9e4b,48.0,Female,Yes,Self-employed,Urban,smokes,38.0,0,0,90.38
+86dacb82bfa5fc1f7fc85d6b63e1e9c8,30.0,Male,Yes,Govt_job,Urban,never smoked,31.1,0,0,95.94
+b3c191d078e0f1dc9891eefa340564af,45.0,Female,Yes,Self-employed,Urban,Unknown,29.3,0,0,82.94
+436daf7e5bdda10a4194fa6e7fb100d9,36.0,Female,Yes,Govt_job,Urban,never smoked,26.9,0,0,66.47
+817c46f0490bf236f3c30f7fdd6e5df3,33.0,Male,Yes,Govt_job,Urban,Unknown,25.4,0,0,82.83
+6344f313ef25c7dc7b5aff943ca21d12,51.0,Male,Yes,Private,Rural,never smoked,31.4,0,0,78.05
+2ab8f86410b4f3bdcc747699295eb5a4,15.0,Female,No,Private,Urban,Unknown,21.7,0,0,76.77
+1560fe0e80c19847a91c22e69d5036f1,82.0,Female,Yes,Self-employed,Rural,Unknown,23.7,0,1,229.58
+d187f551ea968ff4ba30a4935bd08198,35.0,Male,No,Private,Urban,smokes,28.5,0,0,93.6
+52292e0c763fd027c6eba6b8f494d2eb,31.0,Female,No,Govt_job,Rural,never smoked,27.2,0,0,70.66
+5969f6ba1095eafbdbb2d1d063da7607,52.0,Male,Yes,Private,Rural,never smoked,30.0,0,0,111.04
+a7ad710353b08b3d1e7ee6daca9679cc,47.0,Female,Yes,Govt_job,Urban,Unknown,23.9,0,0,122.32
+e0908a66106a8ecc4d2eda89df820a98,44.0,Female,Yes,Private,Urban,never smoked,20.8,0,0,124.06
+ed798eec75807df6e79b0be391f720e4,1.0,Male,No,children,Urban,Unknown,18.3,0,0,101.31
+a4fa73f413400524fef474c93faa5e02,59.0,Female,Yes,Self-employed,Urban,never smoked,29.4,0,0,65.82
+eb429c58556d7816b74e84654a8ea7dc,13.0,Female,No,children,Rural,Unknown,38.7,0,0,78.38
+64063a9bafbf19f37ef32a222116bcf1,24.0,Male,No,Govt_job,Rural,never smoked,50.3,0,0,99.65
+f3efdeb0f5c7776c6d4b39cbe6669b81,8.0,Female,No,children,Rural,Unknown,16.3,0,0,102.5
+400438f689c4a4b7003ac38bab4a0eef,75.0,Female,Yes,Self-employed,Rural,formerly smoked,29.3,0,0,78.8
+bddeef3356093481a2362000c07a18a7,9.0,Male,No,children,Urban,Unknown,18.5,0,0,64.2
+4671aeaf49c792689533b00664a5c3ef,45.0,Female,Yes,Private,Rural,never smoked,21.5,0,0,87.47
+5fdfe2c20035ef27771422342d1842ff,1.08,Male,No,children,Rural,Unknown,,0,0,74.5
+e36812e4c30a311d5c12b818581b6a7c,65.0,Male,Yes,Private,Rural,formerly smoked,33.2,0,0,198.84
+ec26fc2eb2b75aece19c70392dc744c2,71.0,Female,Yes,Private,Urban,never smoked,19.7,0,0,71.38
+1b4425e72b5a1eb7cb80882cb2502f34,19.0,Female,No,Self-employed,Urban,never smoked,24.7,0,0,84.06
+8e50a59e20b38adedce0f5a569e9aff4,0.72,Female,No,children,Rural,Unknown,16.8,0,0,62.13
+340198557f49a846acdc1129c67815d1,56.0,Male,No,Self-employed,Rural,never smoked,25.2,0,0,87.95
+e64e4fda9bc1d3bd9caf3b276d25ca7d,69.0,Female,No,Private,Urban,smokes,42.7,0,1,198.33
+375c71349b295fbe2dcdca9206f20a06,52.0,Female,Yes,Private,Urban,formerly smoked,54.7,0,0,82.24
+59112692262234e3fad47fa8eabf03a4,45.0,Male,No,Private,Rural,never smoked,36.4,1,0,85.52
+7c29440875ef4bda3f5f3e5d8d786786,33.0,Female,No,Private,Rural,formerly smoked,32.5,0,0,106.08
+196894366d827c56344bfe5186dbcf64,70.0,Male,Yes,Self-employed,Rural,smokes,26.0,1,0,118.81
+f874601f91ab162335b5856b05987b7d,50.0,Female,Yes,Self-employed,Rural,never smoked,28.3,0,0,103.81
+2b5102c218cb2e3df76c2a0d94244c73,33.0,Male,Yes,Govt_job,Rural,never smoked,24.8,0,0,81.1
+6e5ddfaed8eaa6673c987b40fc2019a8,31.0,Male,Yes,Private,Urban,smokes,30.1,0,0,85.16
+0ec2ae1d04af7898b86235766021c19f,63.0,Female,Yes,Self-employed,Rural,smokes,23.1,0,0,136.81
+3874691448002f6ac81beef64bf6a138,47.0,Female,Yes,Private,Urban,Unknown,29.2,0,0,96.04
+827ccb0eea8a706c4c34a16891f84e7b,11.0,Male,No,children,Urban,never smoked,27.6,0,0,73.18
+d1c56ec77f227fce0ce8329f84705d97,67.0,Female,Yes,Private,Urban,Unknown,32.8,0,0,227.96
+7e7296b6c0eeb90e0d99b60ec78b92e4,47.0,Male,Yes,Self-employed,Urban,never smoked,28.7,0,0,95.04
+187acf7982f3c169b3075132380986e4,27.0,Male,No,Private,Urban,never smoked,44.7,0,0,112.98
+ce6d5e2c77b497755fa207abd714576b,15.0,Male,No,Private,Urban,Unknown,24.6,0,0,65.05
+af5c9b9bc8b322b63f745042f9bf92d8,27.0,Female,Yes,Private,Rural,never smoked,64.4,0,0,57.96
+76b3513cbe743a6818312ed203044759,77.0,Male,Yes,Self-employed,Urban,Unknown,32.2,0,0,57.6
+1392acc99e36fc31f3033a8b0e90b4d6,40.0,Female,No,Private,Urban,never smoked,27.6,0,0,120.77
+297185a7f50481e9ab447b86cbcf145c,33.0,Male,No,Private,Urban,never smoked,26.7,0,0,107.47
+7059b7dea43da04fd342088d7c1698f0,33.0,Female,Yes,Private,Rural,never smoked,26.3,0,0,84.13
+ffeabd223de0d4eacb9a3e6e53e5448d,13.0,Male,No,children,Rural,Unknown,20.1,0,0,98.65
+acc85fcea72cd0e4032763ed0c565dbc,8.0,Female,No,children,Urban,Unknown,15.5,0,0,76.31
+d18f655c3fce66ca401d5f38b48c89af,59.0,Female,Yes,Private,Rural,formerly smoked,31.0,1,0,78.28
+f93de28d9a9839c043f525890cb2f2fa,38.0,Female,No,Private,Urban,formerly smoked,47.9,0,0,218.6
+1cc4307315de94f1f6652be3ae91dbe6,20.0,Female,Yes,Private,Urban,never smoked,22.3,0,0,74.02
+c1fd95299ad8d022093c50740184a3be,53.0,Male,Yes,Private,Urban,Unknown,26.1,0,0,86.73
+86d1c91847351b6999f019d54a4f3f8c,8.0,Male,No,children,Rural,Unknown,16.9,0,0,77.08
+29e7daaa3971f473a9406009cca3bed2,80.0,Female,Yes,Private,Rural,never smoked,28.3,0,0,148.91
+ff129fecec3ab81ec6c17f95fe2dc11b,45.0,Female,Yes,Self-employed,Rural,Unknown,33.5,0,0,149.15
+7cecf722c8d4a33fe1be826c0c897889,23.0,Female,Yes,Private,Rural,never smoked,19.2,0,0,77.73
+aa67a5155398e6ffede7cf8b4825fe39,39.0,Female,Yes,Private,Urban,never smoked,34.2,0,0,60.6
+2cc7645821fa3f2560b783faed98646b,13.0,Female,No,children,Urban,never smoked,21.2,0,0,70.16
+19cbb0bd10e082c0b90a5ab62a55678a,54.0,Female,No,Govt_job,Urban,formerly smoked,32.6,1,0,182.22
+ab9a3f4c92c0f50204a1fe6dbf2e1d0a,43.0,Male,Yes,Govt_job,Rural,never smoked,21.6,0,0,83.78
+c922de9e01cba8a4684f6c3471130e4c,56.0,Female,Yes,Private,Rural,never smoked,54.6,0,0,112.43
+829553a543bd6c9dd8e4e2b0ea16e9be,14.0,Female,No,children,Rural,Unknown,26.4,0,0,78.09
+88b3febc5798a734026c82c1012408f5,41.0,Female,No,Govt_job,Urban,Unknown,42.4,0,0,129.01
+b6e8c5451a2f2a81cf2dc6a7ca9903ea,71.0,Male,No,Private,Urban,never smoked,32.6,0,0,86.96
+7ed1388864a046ca348726886d5c243a,7.0,Female,No,children,Rural,Unknown,17.0,0,0,157.01
+8336041a6899d0bce657dcd29409cf7e,32.0,Male,No,Private,Rural,never smoked,31.4,0,0,93.68
+8512ca31b3df709713364fc8510ace73,52.0,Male,Yes,Private,Rural,formerly smoked,42.1,0,0,107.45
+e8609464e1813ad2494416cb12676159,56.0,Female,Yes,Private,Urban,formerly smoked,36.0,0,0,77.49
+ff22192942900d826b366bc1ba92e665,27.0,Male,Yes,Private,Rural,smokes,26.4,0,0,102.64
+b4fcb370c237271d1e9453614862944f,62.0,Male,Yes,Private,Urban,formerly smoked,22.5,0,0,72.5
+d737189c860997de183e19bea00ade7b,82.0,Male,Yes,Self-employed,Rural,never smoked,27.0,0,0,85.29
+26cfc548f9e843b3e1769b2d13e9f465,1.0,Male,No,children,Rural,Unknown,15.1,0,0,123.21
+44ece762ae7e41e3a0b1301488907eaa,3.0,Male,No,children,Urban,Unknown,27.3,0,0,93.21
+83187550749e6b8024a097630f9d4722,41.0,Female,Yes,Private,Rural,formerly smoked,40.4,0,0,102.39
+9e411b2d0cbcc1d9cd8775e89e96774f,42.0,Female,Yes,Self-employed,Rural,never smoked,26.3,0,0,79.99
+f743456c2e829c48b24c85ebd8024eba,23.0,Female,No,Private,Rural,smokes,,0,0,193.22
+c316b1caa7c585393187d1711e789178,78.0,Male,Yes,Self-employed,Rural,smokes,21.3,0,0,126.39
+1d1e4bb3d3850bdaed43f37ed1b501ac,43.0,Female,No,Self-employed,Rural,never smoked,27.5,1,0,217.3
+4e4dddfd516db95b0aa873d36e617dd8,10.0,Female,No,children,Urban,Unknown,19.1,0,0,61.34
+17d079a0102e73dbd8c7cd98b6716b5b,9.0,Female,No,children,Rural,Unknown,15.1,0,0,80.55
+b71ecc3677e6825a62dbda1fe8ca0ca5,1.08,Male,No,children,Rural,Unknown,24.3,0,0,83.27
+1a725948eb0c738707b5c026a65ba618,24.0,Male,No,Private,Urban,never smoked,37.9,0,0,123.1
+4f141868f35ccdb63a508658bed4981b,51.0,Female,Yes,Govt_job,Rural,never smoked,23.9,0,0,92.95
+a5dcd040486a679c3f649e721d8351dc,65.0,Female,Yes,Private,Rural,never smoked,26.4,0,0,71.06
+f197002b9a0853eca5e046d9ca4663d5,59.0,Female,Yes,Self-employed,Urban,formerly smoked,21.3,0,0,67.75
+abb451a12cf1a9d93292e81f0d4fdd7a,46.0,Male,Yes,Private,Rural,Unknown,30.8,0,0,92.81
+9fc36fa768a74fa93d3ee7bf57b1392c,41.0,Female,Yes,Private,Rural,never smoked,25.5,0,0,97.41
+a95aa4e62b22c9bc5bca4e83cadfaa82,49.0,Female,Yes,Private,Urban,smokes,24.2,0,0,101.02
+fcb81d80812ce559d11b778ac709b82a,22.0,Male,Yes,Govt_job,Urban,never smoked,27.0,0,0,131.3
+3b21db6d1fb73d3868c096e723c07778,31.0,Female,Yes,Govt_job,Urban,never smoked,22.7,0,0,88.2
+d903e9608cfbf08910611e4346a0ba44,64.0,Male,Yes,Self-employed,Rural,formerly smoked,30.7,0,0,210.0
+a72175d72b0a550fe07250f711358a4c,28.0,Male,No,Private,Urban,Unknown,23.7,0,0,94.26
+379ab0615d0a2f2efc9a82340d0d706b,72.0,Female,Yes,Self-employed,Rural,never smoked,23.9,0,0,57.28
+88a7d45c0b4b7c6d948ffff9e0be1de4,20.0,Female,No,Private,Rural,Unknown,26.6,0,0,147.42
+366f0bc7bd1d4bf414073cabbadfdfcd,3.0,Female,No,children,Urban,Unknown,17.1,0,0,116.6
+649a066d415bdda4ce2a7088292645e0,78.0,Male,Yes,Private,Urban,never smoked,29.0,0,0,80.44
+4cf298280fa338aa99601829a948bf35,41.0,Female,Yes,Private,Urban,never smoked,30.0,0,0,87.06
+7de4baa95edf7521f460fa6147a2f8ee,15.0,Female,No,Private,Rural,never smoked,18.3,0,0,87.1
+33a7dc86f60ef6b8228c9df8a7e68d30,40.0,Male,Yes,Private,Urban,smokes,,0,0,191.15
+20913c01b73eb72bf3bbd8b570e4dfa4,51.0,Female,Yes,Private,Rural,never smoked,32.8,0,0,105.63
+e2e71bdee9bb15b874b357b8a6639ed3,1.48,Female,No,children,Rural,Unknown,18.5,0,0,55.51
+72592872c76e93f5b7f964385e5390d8,63.0,Male,Yes,Private,Urban,formerly smoked,37.0,0,0,222.66
+f670becb6af62308cdbe9f5c6c741855,14.0,Female,No,Private,Rural,Unknown,21.8,0,0,84.46
+2e629be3103cf3cdfb7c163870d3e54d,78.0,Female,No,Private,Urban,never smoked,45.7,1,0,203.87
+b0df2270be9cb16c14537e5bc2f2d37b,42.0,Male,Yes,Private,Rural,smokes,35.3,0,0,107.83
+b83847c38f3852c830cdd33228539469,27.0,Female,Yes,Private,Urban,formerly smoked,27.4,0,0,94.19
+d8f86c085789fbe0db0d25ca861a1149,78.0,Female,Yes,Self-employed,Urban,Unknown,26.0,0,0,56.95
+4337f7ca32a4a36b744e31b93244e926,56.0,Female,No,Self-employed,Urban,smokes,24.9,0,0,128.63
+a6cdf7d7accdc2a5afc50c9ce763cbf2,18.0,Female,No,Private,Rural,Unknown,34.4,0,0,78.57
+755526611165c8134cb4c89c31a20c2b,3.0,Female,No,children,Rural,Unknown,18.3,0,0,111.21
+20c1945eae4b9868cbbfd09675f7d76e,44.0,Male,Yes,Private,Rural,never smoked,29.5,0,0,119.01
+314ae9d82ce2688ee2a7e911e1760c4b,73.0,Male,Yes,Self-employed,Rural,never smoked,32.2,0,1,189.45
+34f9a343f945196b66f807e0eb6249fd,76.0,Male,Yes,Private,Rural,formerly smoked,34.3,0,0,234.58
+ab03b7b990d86bd73ff092aff610b511,80.0,Male,Yes,Private,Urban,formerly smoked,27.7,1,1,86.68
+b2651c9921723afdfd04ed61ec302a6b,25.0,Female,Yes,Private,Rural,formerly smoked,45.5,0,0,97.52
+1a59ef90d1ea801448e1567d0896a99f,9.0,Female,No,children,Rural,Unknown,17.7,0,0,110.97
+d4077e5ae8645befc2b9e680f36a6d76,1.08,Male,No,children,Rural,Unknown,17.4,0,0,79.15
+e6202b0662093fb1ff302e1d21c1fce3,21.0,Male,No,Private,Rural,never smoked,26.2,0,0,105.47
+f417d05af72b37f956c906aea42d1511,34.0,Female,Yes,Private,Rural,never smoked,32.0,0,0,85.79
+092cb13c22d51c22b9035a2b4fe76b00,50.0,Female,Yes,Self-employed,Rural,never smoked,24.3,0,0,95.25
+d200029c1c2e679c9b434db0a79fdb60,18.0,Female,No,Private,Rural,Unknown,36.2,0,0,88.85
+0172d289da48c48de8c5ebf3de9f7ee1,30.0,Female,Yes,Private,Rural,never smoked,25.8,0,0,72.49
+19e901474bd32d47931f0219992ff889,51.0,Female,Yes,Private,Urban,formerly smoked,24.8,0,0,95.7
+8c0f24a304f10044bcb756fd2ab2370f,60.0,Female,Yes,Private,Rural,never smoked,26.1,0,0,99.0
+64a2a4ca55db5ee37e2b1fc46efcdf17,37.0,Female,Yes,Govt_job,Urban,never smoked,27.8,0,0,69.17
+3ae04cd9569705cc18fd51df7e870279,34.0,Male,No,Private,Rural,smokes,23.2,0,0,89.68
+27e5b67fd10a082a605ee7d995f69eca,5.0,Female,No,children,Rural,Unknown,17.6,0,0,84.93
+d40bdee0fd721835b35fd121261946f9,80.0,Male,Yes,Private,Urban,never smoked,30.7,0,1,120.09
+99426c3199c2b5e7edf93918d715c120,56.0,Female,Yes,Private,Rural,never smoked,40.3,1,0,205.26
+7d0a9bd083154d3d7f429550f7e8fd57,0.64,Female,No,children,Urban,Unknown,24.9,0,0,83.82
+a4f3e2a65158f75932acafcd57d5142c,9.0,Male,No,children,Urban,Unknown,27.1,0,0,83.83
+1f63336dce12faa21ce6360b9a424374,32.0,Male,Yes,Private,Urban,smokes,23.8,0,0,64.02
+b96fab78f4c997de5d5fa8621625e8b4,39.0,Male,Yes,Private,Urban,formerly smoked,30.8,0,0,90.36
+2ab65a72cef0f72196d92ae1eab2580f,37.0,Female,Yes,Private,Urban,never smoked,42.6,0,0,247.87
+83195156bb3569a78bed5d6da6a14750,59.0,Male,Yes,Self-employed,Rural,smokes,35.5,0,0,118.03
+b3e6c893288d4eb6ecd2339a8a0afe84,15.0,Male,No,Private,Urban,Unknown,41.7,0,0,57.94
+e8d92f99edd25e2cef48eca48320a1a5,79.0,Female,Yes,Self-employed,Rural,never smoked,24.0,1,0,174.12
+30e34847e6a2bcd7a40f671acae634d5,44.0,Female,Yes,Govt_job,Urban,Unknown,26.2,0,0,85.28
+edf52bd6ded9779e85d734368eab305b,60.0,Female,Yes,Private,Rural,Unknown,36.4,0,0,62.78
+14da15db887a4b50efe5c1bc66537089,38.0,Male,Yes,Govt_job,Rural,never smoked,21.2,0,0,237.74
+9d203879c2650125412c8c1e894be590,80.0,Male,No,Self-employed,Rural,formerly smoked,41.3,0,0,204.17
+56a11624261bb5b56cd6d255d81cb778,24.0,Female,Yes,Private,Rural,never smoked,32.1,0,0,67.99
+0a9a35f5a12a6b4858b9e617efb64090,4.0,Female,No,children,Rural,Unknown,17.0,0,0,206.25
+d94075b7e212f8e05575ba2079d4a321,13.0,Male,No,Never_worked,Urban,Unknown,14.6,0,0,85.08
+af6d4ff9abfd5b2c23798466583661a7,79.0,Female,No,Private,Urban,formerly smoked,28.8,0,0,253.86
+79fde5402cbc75ae0615c9ae4c335b46,29.0,Female,No,Private,Urban,formerly smoked,,0,0,81.43
+d5eac06fe54b1f804e302e0e0423190a,39.0,Female,Yes,Private,Urban,Unknown,31.5,0,0,55.28
+5f61886e0930698d2ca927c9bc96db99,54.0,Female,Yes,Private,Rural,formerly smoked,30.9,0,0,151.33
+e20e6fa95ce2c8f1b35e076dfe1fe4ba,15.0,Male,No,Private,Urban,Unknown,24.8,0,0,77.55
+2ab5569b4274a31c7f2b7c67cd9ba9e2,4.0,Male,No,children,Rural,Unknown,16.7,0,0,106.22
+574f6443aff0a0bc9f509a4c4d28ff81,47.0,Female,Yes,Private,Urban,never smoked,24.7,0,0,84.04
+a57d5dea510595e830f132870041510f,56.0,Male,No,Private,Rural,never smoked,33.9,0,0,62.6
+dbd6ee53fe1907ccffa3bba4b7aa77aa,52.0,Female,Yes,Govt_job,Rural,never smoked,35.2,0,0,69.11
+cb306aab7cdb746c2996f02a7b7d1ce4,62.0,Female,Yes,Self-employed,Rural,formerly smoked,43.0,1,0,261.67
+e240e7dde1c1a18499e136f075403f75,40.0,Female,Yes,Private,Urban,never smoked,30.3,0,0,75.87
+7bf023ca6853abd395cab03f83945d24,79.0,Female,Yes,Self-employed,Urban,smokes,25.2,0,1,67.84
+2bc89f96d5af36cd7c598b934297491f,53.0,Male,Yes,Govt_job,Urban,never smoked,33.4,0,1,77.3
+2df45244f09369e16ea3f9117ca45157,74.0,Female,No,Self-employed,Urban,never smoked,40.8,0,0,204.77
+fd1be5bb737d23e0236b52c9cb69d514,44.0,Female,No,Private,Rural,formerly smoked,49.8,0,0,103.78
+fc1f8ede36fb77f2de1f89ca3990e92a,56.0,Female,Yes,Govt_job,Rural,Unknown,27.3,0,0,162.23
+acc1fc2a7746c567f63c3c0490c35ddc,55.0,Male,Yes,Self-employed,Rural,formerly smoked,47.1,0,0,97.68
+2c50841de735ce690a33ce6706b34d0d,0.72,Female,No,children,Urban,Unknown,23.0,0,0,66.36
+e51ba02c4a70ef8a1a52a987473f3dee,10.0,Male,No,children,Rural,Unknown,21.0,0,0,108.79
+93c2ff1e1844baaeeea28891e9d99670,32.0,Female,No,Govt_job,Urban,formerly smoked,23.4,0,0,68.98
+f50d8aa7aa4204ac97b2ef3ed37476f6,24.0,Female,Yes,Private,Urban,never smoked,29.0,0,0,75.23
+3d327f4305c1ba5b5b8157ec6b3ea9c7,51.0,Male,Yes,Private,Urban,formerly smoked,42.5,1,0,112.16
+e297f099ebb4b475764f76a3b49c9b3b,79.0,Female,Yes,Private,Urban,Unknown,33.4,0,0,71.46
+d0c72bcb851bc17ca4fe01bf2e05c235,38.0,Female,Yes,Govt_job,Rural,never smoked,27.3,0,0,64.27
+3afb012b9305852ff2d460b5aabd071d,6.0,Male,No,children,Urban,Unknown,20.0,0,0,83.28
+029965943be49743e54fa5fdc79f8702,15.0,Male,No,Private,Urban,never smoked,27.4,0,0,104.9
+442e87430922b367e4ad6f85640a7bca,42.0,Male,Yes,Govt_job,Rural,Unknown,32.0,0,0,68.12
+fa757d4df53d4143d09ec8064b630ac0,79.0,Female,Yes,Govt_job,Urban,never smoked,32.4,0,0,63.57
+9df81829c4ebc9c427b9afe0438dce5a,57.0,Female,Yes,Govt_job,Urban,smokes,19.2,0,0,104.36
+d790c9e6c0b5e02c87b375e782ac01bc,80.0,Female,Yes,Self-employed,Urban,never smoked,33.7,0,0,73.87
+3c9b5f1cd6a030bcb7bed9eac80589fb,8.0,Male,No,children,Rural,Unknown,25.7,0,0,78.05
+12f73080e04ce0d8e95defb577ebc3f4,35.0,Female,No,Govt_job,Urban,smokes,,0,0,83.76
+d3af6e88ef95e50bacebe1bd779ea52c,56.0,Female,No,Self-employed,Urban,formerly smoked,20.2,1,0,87.5
+f25077a39c1aaddc902d97e5832940ae,46.0,Female,Yes,Private,Rural,never smoked,29.5,0,0,218.65
+5fd0e35edf247576cdd9d723a67b195d,40.0,Male,Yes,Private,Rural,smokes,29.8,0,0,144.48
+2c3ddf4bf13852db711dd1901fb517fa,63.0,Female,Yes,Private,Urban,formerly smoked,29.7,0,0,85.04
+09c78e5e092faab26c371b2c3f13f514,37.0,Female,Yes,Private,Rural,smokes,42.1,0,0,83.65
+48d6f19c288499f43a49247e4754c88a,64.0,Male,Yes,Govt_job,Urban,Unknown,28.8,0,1,74.1
+29d5da36688ab12b521acbf09dc19b3f,63.0,Male,Yes,Self-employed,Rural,formerly smoked,21.0,0,0,104.7
+f5043e335ce8e2caf79cf0e80220b161,17.0,Female,No,Private,Rural,Unknown,21.2,0,0,99.29
+b3b43aeeacb258365cc69cdaf42a68af,77.0,Male,Yes,Private,Urban,formerly smoked,,0,0,74.26
+ea5250104950beb07a8d2381d98560f1,23.0,Female,Yes,Govt_job,Rural,never smoked,24.2,0,0,84.93
+5e93e97910814feb7ea0902bad6182fb,78.0,Female,Yes,Private,Rural,Unknown,17.3,0,0,95.37
+4b31d0c8bd51a28bd76f174161d18608,63.0,Female,Yes,Private,Rural,never smoked,29.2,0,0,60.22
+604616e4d592b744e14ec3ff33204dec,51.0,Male,Yes,Self-employed,Urban,never smoked,30.7,0,0,75.73
+6e0344592d8bc716eb67771cd607b835,5.0,Male,No,children,Urban,Unknown,18.2,0,0,71.92
+291b28fbf65b525a6f0e176818c68525,65.0,Female,Yes,Self-employed,Urban,Unknown,26.2,0,0,82.21
+678cfa711851b3cba0b92e9ac040653f,15.0,Male,No,Never_worked,Urban,Unknown,16.7,0,0,64.29
+6612ec8ffce6ffde437065d80dbc75bb,70.0,Male,Yes,Private,Urban,smokes,29.4,0,0,64.41
+9ed8784d4dc955c5456c4249ea703279,53.0,Male,Yes,Private,Urban,formerly smoked,34.2,0,0,211.03
+e5cb77f52621c430ac78c066dd18e665,18.0,Male,No,Private,Rural,never smoked,21.5,0,0,120.58
+c90f4ac1bac07a2c7c435f474b3aa98e,78.0,Female,Yes,Private,Urban,formerly smoked,28.7,0,0,203.36
+ae8fae5681609a2556741d9528afacc6,79.0,Male,Yes,Private,Urban,Unknown,,0,1,213.38
+7d09d4f5a5bc8ab20cc4e495ef7c8ce7,21.0,Female,No,Private,Urban,Unknown,34.4,0,0,129.16
+f2f45a479e61d0cc5e369fee64fb7f72,53.0,Male,Yes,Self-employed,Urban,formerly smoked,34.7,1,0,227.51
+2d676aeab38fa3680f4369dbbd4f3e52,64.0,Female,Yes,Private,Rural,Unknown,27.4,0,0,250.2
+82890048e6491bf26edcb8987d19a6ae,73.0,Male,Yes,Private,Urban,never smoked,27.9,0,0,84.11
+d424f73e4a19e96d200cf4c38d1c864e,51.0,Male,Yes,Private,Rural,formerly smoked,,1,0,163.56
+54d69e23f13017d66d2d0a23415072ac,73.0,Male,Yes,Govt_job,Rural,Unknown,30.0,0,0,208.69
+b8a6550662b363eb34145965d64d0cfb,4.0,Male,No,children,Rural,Unknown,18.4,0,0,105.76
+56ecdfc08077e1c1aa0feb4ee9f1bcb7,5.0,Male,No,children,Rural,Unknown,18.0,0,0,92.56
+857c00e5e7481f131b40d64990775898,1.48,Female,No,children,Rural,Unknown,17.9,0,0,55.59
+a305c17f85b99588ce35cb4e9cd6134f,34.0,Male,Yes,Private,Urban,Unknown,35.1,0,0,137.96
+c49e446a46fa27a6e18ffb6119461c3f,42.0,Male,Yes,Self-employed,Urban,Unknown,27.3,0,0,86.07
+df877f3865752637daa540ea9cbc474f,3.0,Female,No,children,Rural,Unknown,21.4,0,0,94.12
+0826d9cc9b76a253d855ecaa01096827,47.0,Female,Yes,Private,Urban,never smoked,37.3,0,0,136.8
+69fff0089c76f15d19e8fc6d11532d25,48.0,Female,Yes,Private,Rural,never smoked,22.1,0,0,99.07
+6278beac6c3ae5fa0c9f999e787d1573,31.0,Male,Yes,Private,Urban,never smoked,26.4,0,0,79.81
+5171b997eb652286ff6238ec1aa2990f,41.0,Female,Yes,Govt_job,Rural,never smoked,54.0,1,0,107.5
+b32016b92746d5f303795b24402950e5,50.0,Female,Yes,Private,Urban,formerly smoked,35.4,0,0,103.72
+d5c60496784f8d6c43344eb3bd18574b,61.0,Male,Yes,Self-employed,Rural,never smoked,29.9,0,0,81.96
+03f531381ff5a3b07ce178e101398b8a,27.0,Male,Yes,Self-employed,Urban,Unknown,25.0,0,0,82.9
+dc6e44bb2974fb7d45b9719f0cb3c027,39.0,Female,Yes,Private,Rural,never smoked,34.7,0,0,81.31
+cd65b6835117dc969d0587c032ec4ca1,79.0,Female,Yes,Self-employed,Urban,formerly smoked,28.5,0,0,74.35
+ad99eee6489ffa0c43c0478d5463e41d,59.0,Female,Yes,Private,Rural,never smoked,28.8,0,0,82.42
+cc58f7abf0b0cf2d5ac95ab60e4f14e9,20.0,Female,No,Private,Urban,smokes,,0,0,89.03
+eabe8e1fe6add3ddf6d65b6df954b376,43.0,Male,Yes,Private,Rural,formerly smoked,29.5,0,0,207.37
+9334dc8c863d27590f6f45fe03b6c5e1,66.0,Female,Yes,Private,Rural,formerly smoked,41.9,0,1,196.58
+a7ccec2053fd3f95bade291c40ae428c,52.0,Female,Yes,Private,Urban,never smoked,39.4,0,1,85.66
+be0b07bc63166b3d463469128cce721d,59.0,Female,Yes,Private,Rural,Unknown,30.0,0,0,79.18
+01df78d65072e655cdc1a6f1c46432ac,49.0,Female,Yes,Private,Rural,smokes,28.7,0,0,56.11
+5cf0b0751a223522c722f87bc8a9628d,69.0,Male,Yes,Private,Urban,formerly smoked,27.3,0,0,65.08
+5bf25b785406666d02272cf9cf0b9445,19.0,Male,No,Private,Urban,never smoked,28.4,0,0,74.86
+4fa478df5573b6597248fd32f3200107,51.0,Male,Yes,Self-employed,Rural,never smoked,56.6,1,0,211.83
+320962619d5a31307176f820ce93067f,13.0,Female,No,children,Rural,Unknown,23.4,0,0,69.01
+2c6ee860dfb322d0fc5dbbf5a2aa0b39,31.0,Female,No,Private,Rural,formerly smoked,26.9,0,0,70.51
+4ee3f0492290c6f29384ec280a7bd715,0.8,Male,No,children,Rural,Unknown,17.5,0,0,98.67
+00e26af6ac3b1c1c49d7c3d79c60d000,43.0,Female,No,Private,Rural,smokes,26.7,0,0,101.75
+0871af0e2e24e2b794de31ce67099ba0,56.0,Male,Yes,Govt_job,Urban,smokes,23.8,1,0,72.79
+4fa0a0925c9527b40fb2353fc03e2bf0,50.0,Female,Yes,Self-employed,Rural,never smoked,32.1,0,0,87.15
+eb95aa2ba2ac0cb7a0fac8c427efdd4a,33.0,Female,Yes,Private,Rural,formerly smoked,34.7,0,0,84.68
+7a06b6b8dff110b697bc996bbbd58eeb,27.0,Female,No,Private,Rural,never smoked,22.2,0,0,83.26
+8fc2ff25a36a84a76e695d7a30819c21,61.0,Male,Yes,Self-employed,Urban,smokes,26.5,0,0,111.94
+4efa2dce0e842cbc488548530dd8bf01,63.0,Male,Yes,Private,Rural,formerly smoked,36.5,0,1,196.71
+446ac7480f6cd015d176f8b3d28a03b5,35.0,Female,Yes,Private,Urban,never smoked,25.5,0,0,83.89
+81730c4c0cd08279e375dec6c1c4a79d,54.0,Male,Yes,Private,Rural,never smoked,27.5,0,0,57.56
+1bda9024c96efb3d75384e46dc21cf36,53.0,Male,Yes,Private,Urban,smokes,29.2,0,0,74.66
+ab595f238897729d613c70bb698d3949,51.0,Female,Yes,Private,Urban,never smoked,,0,0,165.31
+94a5313663ab243911f0da89ed1096db,73.0,Female,Yes,Govt_job,Rural,never smoked,30.3,0,0,65.93
+a063cc938acb44d58b2612c6f3e5504f,78.0,Female,No,Self-employed,Rural,never smoked,29.1,1,0,198.12
+63fe974524801fe745151a7c7bc0ab2b,6.0,Male,No,children,Rural,Unknown,19.2,0,0,115.4
+43460166ed53726313e807d5aee32bd9,45.0,Female,Yes,Private,Urban,formerly smoked,22.8,0,0,146.44
+45fe956e79b231a0fad4a5f65feb82e0,48.0,Female,Yes,Private,Urban,formerly smoked,31.2,0,0,77.99
+c604217041755767d624c0846b3bdbd3,0.16,Male,No,children,Urban,Unknown,17.4,0,0,114.71
+55603a5f239e435c642244be3e891b85,51.0,Female,Yes,Govt_job,Rural,never smoked,30.8,0,0,105.52
+67f3a8a7347963d3c9d0622417ad0885,15.0,Male,No,children,Rural,Unknown,30.2,0,0,94.24
+bd0380ed35fb223e9916033fc3baf7da,45.0,Female,Yes,Private,Rural,smokes,37.2,0,0,77.19
+da38769133a761c1db1bf48db6e4a135,27.0,Female,Yes,Private,Urban,smokes,28.6,0,0,70.56
+54e739fff8793e3c8ed72e0ad355e352,53.0,Male,Yes,Private,Rural,formerly smoked,28.5,0,0,116.66
+fc77eeae6b54251137390500c50c9172,22.0,Male,Yes,Govt_job,Rural,never smoked,26.5,0,0,117.69
+2edfbc33177d268d310968d775266d3f,69.0,Male,Yes,Private,Urban,formerly smoked,23.9,0,0,98.92
+8c3c27ac7d298331a1bdfd0a5e8703d3,76.0,Female,Yes,Private,Rural,formerly smoked,31.3,0,0,97.9
+17b3c7061788dbe82de5abe9f6fe22b3,66.0,Male,No,Govt_job,Urban,never smoked,34.5,0,1,70.28
+30e920df8099c4feb835211451c3aa62,66.0,Female,Yes,Self-employed,Rural,never smoked,37.5,0,0,66.24
+0651279f1f67b3dfd57a0fd8f0668bb2,31.0,Female,Yes,Private,Rural,Unknown,31.1,0,0,60.41
+2d355489f5efbd345ef1a178219c6ced,5.0,Male,No,children,Urban,Unknown,19.6,0,0,60.09
+d6055de68dad5a21a33d640118198c98,2.0,Male,No,children,Urban,Unknown,21.2,0,0,107.83
+7861106151e4da32b43aebe4c0ce9173,81.0,Male,No,Private,Rural,never smoked,30.0,1,1,220.64
+476aa20902eb65e167d44ea8384aca04,3.0,Female,No,children,Urban,Unknown,19.9,0,0,82.91
+7534a64aedaf40b22130c27be4516b49,53.0,Female,Yes,Private,Urban,smokes,34.1,1,0,202.66
+86a2587a85be5c0cc7e8d02f82df6cc1,18.0,Female,No,Private,Urban,never smoked,22.2,0,0,123.66
+897a5062eeff3886cb3df9d774e31cbb,77.0,Male,Yes,Govt_job,Urban,never smoked,27.8,0,0,64.4
+9c0d831dc32bb90f9dfb3796b21cb313,82.0,Male,Yes,Private,Rural,formerly smoked,29.5,0,0,86.62
+c1c6b80b283cf653242b2545211477e1,38.0,Female,Yes,Private,Urban,never smoked,28.0,0,0,100.02
+e49f17bdae6bfb91c8a996d7ba623799,50.0,Male,Yes,Self-employed,Urban,smokes,25.1,0,0,101.85
+0602940f23884f782058efac46f64b0f,8.0,Male,No,children,Urban,Unknown,16.1,0,0,118.66
+d0f5edad9ac19abed9e235c0fe0aa59f,36.0,Female,No,Private,Rural,smokes,32.8,0,0,66.55
+4bb469905246950273af7b6593ae0009,2.0,Male,No,children,Urban,Unknown,19.9,0,0,80.98
+444d8477c9764f0afff3f91ee5165019,22.0,Male,No,Private,Rural,Unknown,25.3,0,0,58.96
+12129693d8c570f67a229c843c0bd2d0,17.0,Female,No,Self-employed,Urban,Unknown,23.4,0,0,82.18
+bd23b052ff0d243a1ef4bfd0996d6f64,42.0,Female,Yes,Private,Rural,Unknown,22.8,0,0,84.86
+35c5ce55d4c6015406e3f53558e5bed2,54.0,Male,Yes,Govt_job,Rural,Unknown,27.3,0,0,81.78
+531a377c94fa56202dbb7fd47ae217f5,29.0,Female,No,Private,Rural,Unknown,24.1,0,0,108.75
+00edca0eac577434ebe1b76715e828ec,5.0,Female,No,children,Urban,Unknown,20.7,0,0,91.3
+3e1f0c948d7559c0884b1c664382618b,69.0,Female,Yes,Self-employed,Urban,never smoked,35.9,0,0,126.04
+1c1f1beef683946794edf22079849283,79.0,Female,Yes,Govt_job,Rural,never smoked,34.4,0,0,90.16
+2d6367ec6a3ccd407ef5b5fff53f82d9,69.0,Male,No,Private,Urban,never smoked,28.6,1,0,75.95
+7057cb47f57689b4a7b86f570d2cec6f,81.0,Male,Yes,Private,Rural,Unknown,35.8,0,0,135.32
+65b0df23fd2d449ae1e4b2d27151d73b,35.0,Female,No,Private,Urban,never smoked,40.3,0,0,71.59
+a2a561ffc61849e2ba1ad94624ad4e0b,57.0,Male,Yes,Private,Urban,never smoked,29.5,0,0,107.49
+490398fba78c58e187a2476922c33809,1.72,Male,No,children,Rural,Unknown,18.5,0,0,127.29
+ccea163536ff22f5706464b2d5cff933,53.0,Female,Yes,Private,Urban,formerly smoked,55.2,1,0,87.03
+02bcce140a5a811fe91b7980a6192f4a,73.0,Female,Yes,Private,Rural,never smoked,,1,0,217.84
+407db853f927d513560b3a7c487c3081,47.0,Male,Yes,Private,Urban,smokes,34.9,0,0,71.42
+eac2949b8b90be506f77db750ef05417,8.0,Male,No,children,Urban,Unknown,33.8,0,0,101.26
+7f8186fc9a572c080f67e881052c7c84,24.0,Female,No,Govt_job,Rural,never smoked,27.9,0,0,100.97
+92bf5e6240737e0326ea59846a83e076,55.0,Male,Yes,Private,Urban,Unknown,27.0,0,0,87.72
+b6d0d3c61122345690a19bb8af632db4,54.0,Female,Yes,Private,Rural,formerly smoked,43.8,0,0,109.27
+3c5be6328b5f6a0a5980341230b8ac05,73.0,Female,Yes,Self-employed,Urban,formerly smoked,20.8,0,0,88.52
+94c6f77d585195c80cf2213f4a3f9cd9,32.0,Female,No,Self-employed,Rural,smokes,27.5,0,0,93.17
+299570476c6f0309545110c592b6a63b,64.0,Female,Yes,Govt_job,Urban,never smoked,31.4,0,0,77.68
+f265a481096ef1f2874a01ab3c944e14,8.0,Female,No,children,Urban,Unknown,18.4,0,0,65.32
+288da4070b563521170fcaa92e24bbfb,62.0,Male,Yes,Private,Urban,formerly smoked,30.7,0,0,96.37
+ebd74cf36fe3e37b3c647dc2b7610d2d,71.0,Female,Yes,Private,Urban,Unknown,,0,0,214.77
+c490f96bbae13d62132dda54ef1ec86e,79.0,Male,Yes,Self-employed,Rural,formerly smoked,22.9,0,0,103.21
+00ff31d4bb9646a8a65a4b4659a94e8d,37.0,Male,Yes,Govt_job,Urban,never smoked,35.2,0,0,156.69
+84d7527a08af6b6ff3d4b1acd7a2ceb8,62.0,Male,Yes,Private,Urban,never smoked,38.2,0,0,81.64
+966154d33f4c9b724441a2e8251e189d,59.0,Male,Yes,Govt_job,Rural,smokes,27.3,0,0,73.75
+8c86c617f818ea789cd189816f16455f,43.0,Female,Yes,Govt_job,Rural,never smoked,26.6,0,0,70.08
+d528398e7e5357efcd14216619a95195,31.0,Female,Yes,Private,Urban,never smoked,31.2,0,0,98.99
+98ea09126edd6eea0b7affbbeb0d9b17,8.0,Male,No,children,Rural,Unknown,18.5,0,0,104.3
+8f1598093c04c82a4dbf0211ede8ed10,68.0,Female,Yes,Self-employed,Rural,never smoked,26.7,1,0,206.09
+7143b3c23169789d1d83178002a9b07f,54.0,Male,Yes,Private,Rural,smokes,29.1,0,0,96.97
+f72fb39c42cbb54ef997abf19a4af292,70.0,Female,Yes,Private,Urban,formerly smoked,22.3,1,0,147.12
+87ec75e4dbff0ddfc685a412e5784a8b,5.0,Female,No,children,Urban,Unknown,20.0,0,0,75.86
+e2a2dcc36a08a345332c751b2f2e476c,59.0,Female,Yes,Private,Rural,never smoked,23.4,1,0,99.06
+c19dc3cf9b0ced13099cc512d5ccaec4,47.0,Female,Yes,Private,Rural,never smoked,23.2,0,0,98.58
+da6ea77475918a3d83c7e49223d453cc,28.0,Female,No,Private,Rural,never smoked,57.5,1,0,80.4
+8686fa633cfb5f49a0609122b9e4140b,46.0,Female,Yes,Private,Rural,never smoked,24.2,0,0,70.11
+b294fccdfe95bc7f7dd813216a821a76,32.0,Female,Yes,Private,Rural,Unknown,27.1,0,0,67.1
+4cabd4062d563c8027e488a337c34d28,5.0,Female,No,children,Urban,Unknown,22.7,0,0,55.35
+6917e6014aa45687457b8e6cf3713515,17.0,Female,No,Private,Urban,smokes,25.9,0,0,87.72
